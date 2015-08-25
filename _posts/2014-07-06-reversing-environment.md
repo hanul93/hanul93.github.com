@@ -14,7 +14,7 @@ layout: post
 ## 평가판 윈도우 다운로드 사이트
 
 1. 아래의 웹사이트로 이동한다. <br>
-https://http://dev.modern.ie/tools/vms
+https://dev.modern.ie/tools/vms
 ![](/images/2014/vm-1.png)
 <br>
 2. 웹사이트 좌측 화면에서 다운로드를 원하는 운영체제와 가상환경(VMware, VirtualBox등)을 선택한다.
