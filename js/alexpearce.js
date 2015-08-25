@@ -48,15 +48,18 @@ var filterPostsByPropertyValue = function(posts, property, value) {
     // Last element of tags is null
     post.tags.pop();
     
+    var mng_dept_de_nm = decodeURIComponent(value);
+    // alert(mng_dept_de_nm);
+    
     // The property could be a string, such as a post's category,
     // or an array, such as a post's tags
     if (prop.constructor == String) {
-      if (prop.toLowerCase() == value.toLowerCase()) {
+      if (prop.toLowerCase() == mng_dept_de_nm) { // value.toLowerCase()) {
         filteredPosts.push(post);
       }
     } else if (prop.constructor == Array) {
       for (var j in prop) {
-        if (prop[j].toLowerCase() == value.toLowerCase()) {
+        if (prop[j].toLowerCase() == mng_dept_de_nm) { // value.toLowerCase()) {
           filteredPosts.push(post);
         }
       }
@@ -78,7 +81,8 @@ var layoutResultsPage = function(property, value, posts) {
   if ($container.length == 0) return;
   
   // Update the header
-  var str = majusculeFirst(property) + " Listing for ‘" + majusculeFirst(value) + '’';
+  var mng_dept_de_nm = decodeURIComponent(value);
+  var str = majusculeFirst(property) + " Listing for ‘" + majusculeFirst(mng_dept_de_nm) + '’';
   $container.find('h1').text(str);
   
   // Loop through each post to format it
