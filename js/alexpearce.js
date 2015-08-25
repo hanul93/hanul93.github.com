@@ -82,7 +82,7 @@ var layoutResultsPage = function(property, value, posts) {
   
   // Update the header
   var mng_dept_de_nm = decodeURIComponent(value);
-  var str = majusculeFirst(property) + " Listing for ‘" + majusculeFirst(mng_dept_de_nm) + '’';
+  var str = majusculeFirst(property) + " : ‘" + majusculeFirst(mng_dept_de_nm) + '’';
   $container.find('h1').text(str);
   
   // Loop through each post to format it
