@@ -56,11 +56,17 @@ var filterPostsByPropertyValue = function(posts, property, value) {
     if (prop.constructor == String) {
       if (prop.toLowerCase() == mng_dept_de_nm) { // value.toLowerCase()) {
         filteredPosts.push(post);
+      } else if (prop.toLowerCase() == value.toLowerCase())
+      {
+		filteredPosts.push(post);
       }
     } else if (prop.constructor == Array) {
       for (var j in prop) {
         if (prop[j].toLowerCase() == mng_dept_de_nm) { // value.toLowerCase()) {
           filteredPosts.push(post);
+        } else if (prop[j].toLowerCase() == value.toLowerCase())
+        {
+		  filteredPosts.push(post);
         }
       }
     }

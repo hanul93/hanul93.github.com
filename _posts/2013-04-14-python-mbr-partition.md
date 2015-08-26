@@ -1,13 +1,16 @@
 ---
 layout: post
-title: 파이썬을 이용한 파티션 테이블 분석
-date: 2013-04-14 20:29:15
+
+title: 파이썬을 이용한 파티션 테이블 분석
+
+date: 2013-04-14 20:29:15
 tags: 파이썬 포렌식
 ---
 
+
 파이썬을 이용하여 자신만의 분석도구를 만드는 것은 상당히 중요하다. 그 이유는 어떤 포렌식 도구보다도 향후 필요한 기능을 스스로 추가하고 확장하기 용이하기 때문이다. 만약 자신이 즐겨 사용하는 포렌식 도구가 특정 기능을 지원해주지 않는다면 결국 해당 기능을 가진 다른 포렌식 도구를 찾아야 하기 때문이다. 
 
-이번 시간에는 파일시스템 포렌식 도구에서 가장 기본이 되는 하드디스크의 파티션 테이블 분석 도구를 파이썬을 이용 해서 개발해 본다. 
+여기에서는 파일시스템 포렌식 도구에서 가장 기본이 되는 하드디스크의 파티션 테이블 분석 도구를 파이썬을 이용 해서 개발해 본다. 
 
 ##1. 기본적인 파이썬 코드 
 기본적으로 파이썬을 이용하여 파일을 다루는 프로그램을 작성해본다. 
@@ -23,7 +26,8 @@ buf = handle.read()
 handle.close()
 {% endhighlight %}
 
-위의 프로그램은 파일을 열어 읽는 간단한 기능을 작성해 본 것이다. 특정 위치를 이동해서 파일의 특수 영역을 읽을 수도 있다.
+
+위의 프로그램은 파일을 열고 읽는 간단한 기능을 작성해 본 것이다. 특정 위치를 이동해서 파일의 특수 영역을 읽을 수도 있다.
 
 {% highlight python %}
 # C드라이브 루트에 존재하는 1.txt 파일을 이진 읽기 모드로 파일을 연다 
@@ -66,24 +70,11 @@ handle = open('\\\\.\\PhysicalDrive0', 'rb')
 MBR이 정확하게 읽혀진 것이 맞는지를 체크하기 위해 MBR의 Magic ID도 체크하도록 기능을 추가하였다.
 
 {% highlight python %}
-if __name__ == '__main__' : 
-    # HDD1를 연다 
-    handle = open('\\\\.\\PhysicalDrive1', 'rb') 
-    
-    # MBR (0번 섹터) 위치로 이동한다 
-    handle.seek(0 * 512) # Offset이므로 512를 곱함
-    
-    # MBR 역역을 읽는다 
-    mbr = handle.read(0x200) 
-    
-    # MBR의 Magic ID가 맞나? 
-    if ord(mbr[510]) == 0x55 and ord(mbr[511]) == 0xAA : 
-        print 'MBR Read Success' 
-    else : 
-        print 'MBR Read Fail' 
-        
-    # HDD0를 닫는다 
-    handle.close()
+# MBR의 Magic ID가 맞나? 
+if ord(mbr[510]) == 0x55 and ord(mbr[511]) == 0xAA : 
+    print 'MBR Read Success' 
+else : 
+    print 'MBR Read Fail' 
 {% endhighlight %}
 
 ##3. 파티션 테이블 읽기 
@@ -94,67 +85,41 @@ if __name__ == '__main__' :
 파티션 테이블은 MBR 코드에서 0x1BE 위치에서 0x10씩 4개가 존재한다. 따라서 다음과 같이 그 정보를 추출해 낼 수 있다.
 
 {% highlight python %}
-if __name__ == '__main__' : 
-    # HDD1를 연다 
-    handle = open('\\\\.\\PhysicalDrive1', 'rb') 
+# MBR의 Magic ID가 맞나? 
+if ord(mbr[510]) == 0x55 and ord(mbr[511]) == 0xAA : 
+    print 'MBR Read Success' 
     
-    # MBR (0번 섹터) 위치로 이동한다 
-    handle.seek(0 * 512) # Offset이므로 512를 곱함 
-    
-    # MBR 역역을 읽는다 
-    mbr = handle.read(0x200) 
-    
-    # MBR의 Magic ID가 맞나? 
-    if ord(mbr[510]) == 0x55 and ord(mbr[511]) == 0xAA : 
-        print 'MBR Read Success' 
-        
-        # 파티션 정보 획득 
-        part = [] 
+    # 파티션 정보 획득 
+    part = [] 
 
-        for i in range(4) : 
-            part.append(mbr[0x1BE + (i*0x10):0x1BE + (i*0x10) + 0x10]) 
-    else : 
-        print 'MBR Read Fail' 
-        
-    # HDD0를 닫는다 
-    handle.close()
+    for i in range(4) : 
+        part.append(mbr[0x1BE + (i*0x10):0x1BE + (i*0x10) + 0x10]) 
+else : 
+    print 'MBR Read Fail' 
 {% endhighlight %}
 
 이제 파티션 테이블에 존재하는 4개의 파티션 정보가 part 변수에 들어가 있다. 이제 이 part 변수를 확인하여 어떤 파티션 정보가 존재하는지 확인해보자.
 
 {% highlight python %}
-if __name__ == '__main__' : 
-    # HDD1를 연다 
-    handle = open('\\\\.\\PhysicalDrive1', 'rb') 
+# MBR의 Magic ID가 맞나? 
+if ord(mbr[510]) == 0x55 and ord(mbr[511]) == 0xAA : 
+    print 'MBR Read Success' 
     
-    # MBR (0번 섹터) 위치로 이동한다 
-    handle.seek(0 * 512) # Offset이므로 512를 곱함 
-    
-    # MBR 역역을 읽는다 
-    mbr = handle.read(0x200) 
-    
-    # MBR의 Magic ID가 맞나? 
-    if ord(mbr[510]) == 0x55 and ord(mbr[511]) == 0xAA : 
-        print 'MBR Read Success' 
-        
-        # 파티션 정보 획득 
-        part = [] 
+    # 파티션 정보 획득 
+    part = [] 
 
-        for i in range(4) : 
-            part.append(mbr[0x1BE + (i*0x10):0x1BE + (i*0x10) + 0x10])
+    for i in range(4) : 
+        part.append(mbr[0x1BE + (i*0x10):0x1BE + (i*0x10) + 0x10])
 
-        # 각 파티션의 시스템 타입만 출력 
-        for i in range(4) : 
-            p = part[i] 
-            if ord(p[4]) == 0xF or ord(p[4]) == 0x5 : 
-                print '%d : ExtendedPartition' % i # 확장 파티션 
-            elif ord(p[4]) != 0 : 
-                print '%d : PrimaryPartition' % i # 주 파티션
-    else : 
-        print 'MBR Read Fail' 
-        
-    # HDD0를 닫는다 
-    handle.close()
+    # 각 파티션의 시스템 타입만 출력 
+    for i in range(4) : 
+        p = part[i] 
+        if ord(p[4]) == 0xF or ord(p[4]) == 0x5 : 
+            print '%d : ExtendedPartition' % i # 확장 파티션 
+        elif ord(p[4]) != 0 : 
+            print '%d : PrimaryPartition' % i # 주 파티션
+else : 
+    print 'MBR Read Fail' 
 {% endhighlight %}
 
 여기까지 실행결과는 다음과 같다.
@@ -673,4 +638,5 @@ if __name__ == '__main__' :
 
 
 
+- 2015-08-26 : 중복 소스코드 제거
 - 2013-04-14 : 최초로 작성
