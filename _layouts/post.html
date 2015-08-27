@@ -24,7 +24,7 @@ $('#toc').toc({exclude: 'h1, h6', autoId: true, numerate: true});
     <ul class="tags post-tags cf">
       <li>Tagged:</li>
       {% for tag in page.tags %}
-      <li><a href="/search/?tags={{ tag }}">{{ tag | downcase }}</a></li>
+      <li><a href="/search/?tags={{ tag }}">{{ tag }}</a></li>
       {% endfor %}
     </ul>
   </div>
