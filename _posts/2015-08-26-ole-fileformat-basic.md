@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OLE 파일 포맷 (1) - 개요 및 기본 구조
+description:  OLE 파일의 전체적인 개요와 기본 구조에 대해 알아본다.
 date: 2015-08-26 06:47:25
 tags: OLE 파일포맷 파이썬
 ---

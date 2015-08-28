@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OLE 파일 포맷 (5) - Small Block Allocation Table(SBAT)와 SBAT Depot
+description:  OLE 파일 내부의 용량이 작은 스트림을 다루는 Small Block Allocation Table(SBAT)와 SBAT Depot에 대해 알아본다.
 date: 2015-08-27 20:17:27  
 tags: OLE 파일포맷 파이썬
 ---

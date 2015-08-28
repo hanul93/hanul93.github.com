@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OLE 파일 포맷 (4) - 프로퍼티(Property)와 프로퍼티 스토리지(Storage)
+description:  OLE 파일 내부에 존재하는 스토리지와 스트림에 대한 정보를 담고 있는 프로퍼티(Property)와 프로퍼티 스토리지(Storage)에 대해 알아본다.
 date: 2015-08-27 08:42:43 
 tags: OLE 파일포맷 파이썬
 ---

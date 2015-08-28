@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OLE 파일 포맷 (2) - 헤더 블록
+description:  OLE 파일의 (-1)블록인 헤더 블록에 대해 알아본다.
 date: 2015-08-26 10:58:03
 tags: OLE 파일포맷 파이썬
 ---

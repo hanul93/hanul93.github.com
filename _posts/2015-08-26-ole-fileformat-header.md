@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OLE 파일 포맷 (3) - Block Allocation Table(BBAT)와 BBAT Depot
+description: OLE 파일 내부의 용량이 큰 스트림을 다루는 Block Allocation Table(BBAT)와 BBAT Depot에 대해 알아본다.
 date: 2015-08-26 13:10:36
 tags: OLE 파일포맷 파이썬
 ---

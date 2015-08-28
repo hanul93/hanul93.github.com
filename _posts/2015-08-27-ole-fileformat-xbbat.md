@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OLE 파일 포맷 (6) - Extra Big Block Allocation Table(XBBAT) Depot
+description:  OLE 파일 내부의 대용량 스트림을 다루는 Extra Big Block Allocation Table(XBBAT) Depot에 대해 알아본다.
 date: 2015-08-27 20:46:33 
 tags: OLE 파일포맷 파이썬
 ---
