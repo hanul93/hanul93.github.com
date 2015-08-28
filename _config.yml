@@ -54,7 +54,7 @@ baseurl: ""
 markdown: redcarpet
 encoding: utf-8
 highlighter: pygments
-permalink: /:title/
+permalink: /:title.html
 
 redcarpet:
     extensions: 
