@@ -65,7 +65,7 @@ wb.save('test.xlsx') # 엑셀로 저장한다.
 
 ## 3. WorkSheet 작업하기
 
-###3.1 SSheet 생성
+###3.1 Sheet 생성
 
 현재 작업중인 Workbook에 Sheet를 추가할 때에는 create_sheet() 함수를 사용한다. 이때 추가하고자 하는 위치(index)를 지정하고 Sheet의 이름을 입력한다. **만약 한글로 된 Sheet 이름을 입력하고 싶다면 유니코드로 변환하여 입력하면 된다.**
 
@@ -77,7 +77,7 @@ ws2['A1'] = 100   # 새로운 Sheet A1에는 숫자 100을 입력한다.
 
 ![](/images/2015/openpyxl/openpyxl_2.png)
 
-###3.2 SSheet 삭제
+###3.2 Sheet 삭제
 
 불필요한 Sheet는 remove_sheet() 함수를 사용하여 삭제할 수 있다. 인자값으로는 create_worksheet() 함수의 리턴값인 sheet의 핸들을 사용해야 한다.
 
