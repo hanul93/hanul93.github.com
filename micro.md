@@ -4,9 +4,11 @@ title: 잡담
 permalink: /micro/
 ---
 
+<fieldset style="margin:20px 0px 20px 0px;padding:5px;"><legend><span><strong></strong></span></legend><!--Creative Commons License--><div style="float: left; width: 88px; margin-top: 3px;"><img alt="Creative Commons License" style="border-width: 0" src="/images/delivery39.png"/></div><div style="margin-left: 92px; margin-top: 3px; text-align: justify;">"인생에서 무엇인가 해야겠다는 생각이 든다면 지금 바로 해야 한다. 지금 하지 않으면 오늘도 못하고 내일도 못 한다." <i>- <a>편석환 : 나는 오늘부터 말을 하지 않기로 했다</a><br><br>at 2015-09-13</i></div></fieldset>
+
 <fieldset style="margin:20px 0px 20px 0px;padding:5px;"><legend><span><strong></strong></span></legend><!--Creative Commons License--><div style="float: left; width: 88px; margin-top: 3px;"><img alt="Creative Commons License" style="border-width: 0" src="/images/pulse1.png"/></div><div style="margin-left: 92px; margin-top: 3px; text-align: justify;">"우리에게 뭔가 시도할 용기가 없다면 삶이 도대체 어떤 의미가 있겠나?" <i>- <a>고흐</a><br><br>at 2015-09-10</i></div></fieldset>
 
-<fieldset style="margin:20px 0px 20px 0px;padding:5px;"><legend><span><strong></strong></span></legend><!--Creative Commons License--><div style="float: left; width: 88px; margin-top: 3px;"><img alt="Creative Commons License" style="border-width: 0" src="/images/speedometer26.png"/></div><div style="margin-left: 92px; margin-top: 3px; text-align: justify;">"급하게 사는 것이 열심히 사는 것은 아닌다. 조금의 여유를 가지고 살아 갈 일ㅇ다." <i>- <a>편석환 : 나는 오늘부터 말을 하지 않기로 했다</a><br><br>at 2015-09-10</i></div></fieldset>
+<fieldset style="margin:20px 0px 20px 0px;padding:5px;"><legend><span><strong></strong></span></legend><!--Creative Commons License--><div style="float: left; width: 88px; margin-top: 3px;"><img alt="Creative Commons License" style="border-width: 0" src="/images/speedometer26.png"/></div><div style="margin-left: 92px; margin-top: 3px; text-align: justify;">"급하게 사는 것이 열심히 사는 것은 아닌다. 조금의 여유를 가지고 살아 갈 일이다." <i>- <a>편석환 : 나는 오늘부터 말을 하지 않기로 했다</a><br><br>at 2015-09-10</i></div></fieldset>
 
 <fieldset style="margin:20px 0px 20px 0px;padding:5px;"><legend><span><strong></strong></span></legend><!--Creative Commons License--><div style="float: left; width: 88px; margin-top: 3px;"><img alt="Creative Commons License" style="border-width: 0" src="/images/table7.png"/></div><div style="margin-left: 92px; margin-top: 3px; text-align: justify;">"절대 허송세월 하지마라. 책을 읽든지, 쓰든지, 기도를 하든지, 명상을 하든지, 또는 공익을 위해 노력하든지, 항상 뭔가를 해라" <i>- <a>토마스 아 켐피스</a><br><br>at 2015-09-04</i></div></fieldset>
 
