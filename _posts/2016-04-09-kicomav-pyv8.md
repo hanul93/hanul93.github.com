@@ -3,12 +3,8 @@ layout: post
 title: PyV8을 이용한 자바스크립트 악성코드 분석하기
 description: 키콤백신을 개발하면서 고민한 내용들을 적은 이야기이다. 자바스크립트를 이용한 악성코드는 난독화등으로 인해 분석하기도 힘들고 진단용 백신을 만들기도 어렵다. 여기에서는 간단하게 PyV8을 이용한 방법을 소개한다.
 date: 2016-04-09 08:10:00 
-tags: 키콤백신 파이썬 PyV8 자바스크립트 악성코드 분석
+tags: 파이썬 PyV8 자바스크립트 악성코드 분석
 ---
-  
-  
-<fieldset style="margin:20px 0px 20px 0px;padding:5px;"><legend><span><strong>읽기 전에 </strong></span></legend><!--Creative Commons License--><div style="float: left; width: 88px; margin-top: 3px;"><img alt="Creative Commons License" style="border-width: 0" src="/images/exclamationmark.png"/></div><div style="margin-left: 92px; margin-top: 3px; text-align: justify;">본 내용은 키콤백신을 개발하면서 고민했던 내용들을 적은 것입니다. 따라서 다분히 개인적인 의견들이므로 보시는 분들에 따라서 이견을 가지실 수 있습니다. 그냥 "이 사람은 이렇게 개발하는구나" 하고 봐 주시면 좋겠습니다. 
-</div></fieldset>
 
 
 ## 1. 들어가며
@@ -86,7 +82,7 @@ ReferenceError: ReferenceError: WScript is not defined (  @ 167 : 0 )
 >>> _
 ```
 
-PyV8이 실행되면서 WScript가 선언되어 있지 않다면 실행을 종료한다. 사실 PyV8은 자바스크립트 문법을 해석해주는 역활을 할 뿐 실제 다양한 운영체제의 API를 준비하고 있지 않다. 그렇기 때문에 우리는 PyV8을 이용하여 악성코드를 실행하는 가감한 행동을 할 수 있다. 어차피 PyV8은 파일을 삭제하거나 생성하고 실행하는 행동은 하지 못한다. 운영체제의 API가 없기 때문에... 
+PyV8이 실행되면서 WScript가 선언되어 있지 않다며 실행을 종료한다. 사실 PyV8은 자바스크립트 문법을 해석해주는 역활을 할 뿐 실제 다양한 운영체제의 API를 준비하고 있지 않다. 그렇기 때문에 우리는 PyV8을 이용하여 악성코드를 실행하는 가감한 행동을 할 수 있다. 어차피 PyV8은 파일을 삭제하거나 생성하고 실행하는 행동은 하지 못한다. 운영체제의 API가 없기 때문에... 
 
 ### (3) PyV8과 Dummy 운영체제 API 연결
 
