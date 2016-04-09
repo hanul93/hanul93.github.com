@@ -53,7 +53,7 @@ baseurl: ""
 
 markdown: kramdown
 encoding: utf-8
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 redcarpet:
