@@ -120,12 +120,12 @@ tags: OLE 파일포맷 파이썬
 
 
 
-[^1]: HexCmp : http://www.fairdell.com/hexcmp/
+[^1]: HexCmp : <http://www.fairdell.com/hexcmp/>
 
 
 
 ***
 
-####Update
+#### Update
 
 - 2015-08-26 : 최초로 작성

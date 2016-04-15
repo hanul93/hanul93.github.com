@@ -6,11 +6,11 @@ date: 2015-08-30 12:38:20
 tags: 파이썬 엑셀 Openpyxl
 ---
 
-Openpyxl은 엑셀 파일을 손쉽게 생성할 수 있는 파이썬 외부 라이브러리이다. 가끔 프로그래밍을 하다보면 보고서 출력이 필요한 경우가 있다. 그러면 대체로 생각할 수 있는 방법은 엑셀의 COM 오브젝트를 접근하여 문서를 생성하는 것이다. 그러나 이 방법은 해당 시스템에 엑셀이 설치되어 있어야 하는 단점이 존재한다.
+Openpyxl[^1]은 엑셀 파일을 손쉽게 생성할 수 있는 파이썬 외부 라이브러리이다. 가끔 프로그래밍을 하다보면 보고서 출력이 필요한 경우가 있다. 그러면 대체로 생각할 수 있는 방법은 엑셀의 COM 오브젝트를 접근하여 문서를 생성하는 것이다. 그러나 이 방법은 해당 시스템에 엑셀이 설치되어 있어야 하는 단점이 존재한다.
 
 고객이 물어본다.
 
-> "엑셀이 설치되지 않은 시스템에서는 보고서 생성이 안되는건가요?"
+> "엑셀이 설치되지 않은 시스템에서는 보고서 생성이 안되는건가요?"<br>
 > "엑셀 라이선스를 구매해야 한다면 좀 그런데????"
 
 엑셀이 시스템에 설치되지 않아도 할 수 있는 방법을 찾다가 알게 된 Openpyxl은 엑셀이 설치되지 않은 시스템에서도 자유롭게 엑셀 파일이 생성할 수 있다.
@@ -19,29 +19,30 @@ Openpyxl은 엑셀 파일을 손쉽게 생성할 수 있는 파이썬 외부 라
 </div></fieldset>
 
 
-##1. 설치
+## 1. 설치
 
-###1.1 다운로드 및 설치
+### 1.1 다운로드 및 설치
 
 Openpyxl은 아래의 사이트에서 다운로드 받을 수 있다.
 
-- https://pypi.python.org/pypi/openpyxl/2.2.5
+* <https://pypi.python.org/pypi/openpyxl/2.2.5>
 
 압축을 해제한 후 ```setup.py install```을 입력하면 설치를 할 수 있다. 정상적으로 설치 되었는지의 여부는 이제 파이썬을 구동하여 ```import openpyxl```을 통해 확인할 수 있다.
 
 ```
 C:\Python27>python.exe
-Python 2.7.9 (default, Dec 10 2014, 12:24:55) [MSC v.1500 32 bit (Intel)] on win32
+Python 2.7.9 (default, Dec 10 2014, 12:24:55) [MSC v.1500 32 bit 
+(Intel)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import openpyxl
 >>> _
 ```
 
-###1.2 추가 모듈 다운로드 및 설치
+### 1.2 추가 모듈 다운로드 및 설치
 
-Openpyxl이 최신 버전부터 *jdcal*을 필요로 한다. 그래서 추가 라이브러리를 설치해야 한다. 따라서 아래의 사이트에서 jdcal을 다운로드 받는다.
+Openpyxl이 최신 버전부터 ```jdcal```을 필요로 한다. 그래서 추가 라이브러리를 설치해야 한다. 따라서 아래의 사이트에서 jdcal을 다운로드 받는다.
 
-- https://pypi.python.org/pypi/jdcal
+* <https://pypi.python.org/pypi/jdcal>
 
 압축을 해제한 후 ```setup.py install```을 입력하여 설치한다.
 
@@ -65,9 +66,9 @@ wb.save('test.xlsx') # 엑셀로 저장한다.
 
 ## 3. WorkSheet 작업하기
 
-###3.1 Sheet 생성
+### 3.1 Sheet 생성
 
-현재 작업중인 Workbook에 Sheet를 추가할 때에는 create_sheet() 함수를 사용한다. 이때 추가하고자 하는 위치(index)를 지정하고 Sheet의 이름을 입력한다. **만약 한글로 된 Sheet 이름을 입력하고 싶다면 유니코드로 변환하여 입력하면 된다.**
+현재 작업중인 Workbook에 Sheet를 추가할 때에는 ```create_sheet()``` 함수를 사용한다. 이때 추가하고자 하는 위치(index)를 지정하고 Sheet의 이름을 입력한다. **만약 한글로 된 Sheet 이름을 입력하고 싶다면 유니코드로 변환하여 입력하면 된다.**
 
 ```
 # 1번 위치에 'Test Sheet' 이름의 Sheet를 만든다.
@@ -77,9 +78,9 @@ ws2['A1'] = 100   # 새로운 Sheet A1에는 숫자 100을 입력한다.
 
 ![](/images/2015/openpyxl/openpyxl_2.png)
 
-###3.2 Sheet 삭제
+### 3.2 Sheet 삭제
 
-불필요한 Sheet는 remove_sheet() 함수를 사용하여 삭제할 수 있다. 인자값으로는 create_worksheet() 함수의 리턴값인 sheet의 핸들을 사용해야 한다.
+불필요한 Sheet는 ```remove_sheet()``` 함수를 사용하여 삭제할 수 있다. 인자값으로는 ```create_worksheet()``` 함수의 리턴값인 sheet의 핸들을 사용해야 한다.
 
 ```
 wb.remove_sheet(ws) # ws는 A1에 'Hello'가 있었던 Sheet의 핸들이다.
@@ -88,7 +89,7 @@ wb.remove_sheet(ws) # ws는 A1에 'Hello'가 있었던 Sheet의 핸들이다.
 ![](/images/2015/openpyxl/openpyxl_3.png)
 
 
-###3.3 Sheet 이름 변경
+### 3.3 Sheet 이름 변경
 
 Sheet의 이름을 변경하는 방법은 해당 Sheet의 속성 값을 통해서 간단하게 변경할 수 있다.
 
@@ -103,7 +104,7 @@ ws2.title = 'New Name' # 'Test Sheet'의 이름을 변경한다.
 
 ### 4.1 Cell 병합
 
-두 개 이상의 Cell을 병합하고 싶을 때가 있다. 이럴 경우 merge_cells() 함수를 사용하면 된다.
+두 개 이상의 Cell을 병합하고 싶을 때가 있다. 이럴 경우 ```merge_cells()``` 함수를 사용하면 된다.
 
 ```
 ws2.merge_cells('A1:E1')  # A1에서 E1까지 Cell을 병합한다.
@@ -134,7 +135,6 @@ Cell 내용을 가로, 세로 맞춤을 왼쪽, 오른쪽, 가운데로 정렬�
 ```
 # Cell의 가로, 세로 맞춤을 가운데로 정렬한다.
 ca1.alignment = Alignment(horizontal='center', vertical='center')
-
 ```
 
 ![](/images/2015/openpyxl/openpyxl_6.png)
@@ -219,8 +219,10 @@ ws2.freeze_panes = 'A2' # A2 위쪽을 고정
 따라서 엑셀 설치와 무관하게 동작하기 위해서는 파이썬 개발자라면 라이브러리가 있으면 Openpyxl을 고려해보는 것도 좋을 것이다.
 
 
+[^1]: Openpyxl : <https://openpyxl.readthedocs.org/en/default/>
+
 ***
 
-####Update
+#### Update
 
 - 2015-08-30 : 최초로 작성

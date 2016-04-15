@@ -16,13 +16,13 @@ tags: 파이썬 키콤백신 PEP8
 
 다양한 코딩 스타일로 작성된 소스 코드는 수정이 필요할 경우 소스 코드를 해석하는데 상당히 많은 시간을 소비하게 되는 문제를 야기하게 된다. 결국 좋은 품질의 소스 코드를 확보하기 위해서는 각자가 가진 코딩 스타일을 통일시키는 것이 오픈소스로 프로젝트를 진행하는데 도움이 된다. 
 
-##코딩 스타일 가이드라인이란?
+## 코딩 스타일 가이드라인이란?
 
 코딩 스타일 가이드라인(또는 코딩 컨벤션이라고도 함)은 프로그램 코드를 작성할 때 사용되는 프로그래머들 사이의 약속이다. 예를 들면 들여쓰기는 탭이로 할 것인지 아니면 공백으로 할 것인지부터 변수명은 어떤 방법으로 선언할 것인지를 결정하는 것이 대표적인 코딩 스타일 가이드라인이다.
 
 프로그래밍 언어별로 나름 표준화 된 코딩 스타일 가이드라인이 존재하는데 키콤백신 프로젝트[^1]는 파이썬으로 작성되었으므로 파이썬의 표준 코딩 스타일 가이드라인인 PEP8[^2]을 따른다.
 
-##PEP (Python Enhance Proposal)
+## PEP (Python Enhance Proposal)
 
 PEP란 파이썬을 개선하기 위한 개선 제안서를 뜻하는 것으로 3가지로 구분된다.
 
@@ -43,7 +43,7 @@ PEP란 파이썬을 개선하기 위한 개선 제안서를 뜻하는 것으로 
 5. import는 표준 라이브러리, 서드파티, 로컬 라이브러리 순서로 묶는다.
 5. 소괄호, 중괄호, 대괄호 사이에 추가로 공백을 입력하지 않는다.
 
-자세한 PEP8의 내용은 https://www.python.org/dev/peps/pep-0008 에서 확인할 수 있다.
+자세한 PEP8의 내용은 <https://www.python.org/dev/peps/pep-0008> 에서 확인할 수 있다.
 
 ## PyCharm을 이용한 PEP8  체크하기
 
@@ -74,27 +74,25 @@ PyCharm을 이용하면 위에서 보았듯이 PEP8 파이썬 코딩 스타일 �
 
 **1. 가독성을 해치는 경우**
 
-```
-경우에 따라 기존 코드보다 PEP8이 적용된 코드가 가독성이 떨어질 수 있다. PEP8을 적용하는 이유가 가독성과 무관하지 않으므로 가독성이 좋은쪽을 따르는게 맞다고 보는것이다.
-```
+<fieldset style="margin:20px 0px 20px 0px;padding:5px;"><legend><span><strong></strong></span></legend><!--Creative Commons License--><div style="margin-left: 3px; margin-top: 3px; text-align: justify;">경우에 따라 기존 코드보다 PEP8이 적용된 코드가 가독성이 떨어질 수 있다. PEP8을 적용하는 이유가 가독성과 무관하지 않으므로 가독성이 좋은쪽을 따르는게 맞다고 보는것이다.
+</div></fieldset>
 
 **2. PEP8이 적용되지 않은 기존 코드를 PEP8을 적용하는 과정인 경우**
 
-```
-기존 코드의 양이 많다보면 한번에 PEP8이 적용되지 않을 수 있다. 이 경우 리펙토링등의 단계를 거쳐 순차적으로 정리해가는 과정일 가능성이 크므로 당장의 PEP8 규칙에 위배되는 코드들이 존재할 수 있다.
-```
+<fieldset style="margin:20px 0px 20px 0px;padding:5px;"><legend><span><strong></strong></span></legend><!--Creative Commons License--><div style="margin-left: 3px; margin-top: 3px; text-align: justify;">기존 코드의 양이 많다보면 한번에 PEP8이 적용되지 않을 수 있다. 이 경우 리펙토링등의 단계를 거쳐 순차적으로 정리해가는 과정일 가능성이 크므로 당장의 PEP8 규칙에 위배되는 코드들이 존재할 수 있다.
+</div></fieldset>
 
 우선 키콤백신 프로젝트는 기존 코드가 존재하지 않으며(물론 C/C++ 코드는 존재한다) 파이썬으로 처음부터 작성하기 때문에 당장 2번의 예외 상황이 적용되지는 않는다. 즉, PEP8을 적용하였을 때 가독성이 떨어진다고 판단 될 경우에는 예외 사항을 적용할 것이다.
 
 
-[^1]: 키콤백신 프로젝트 : http://www.kicomav.com
-[^2]: PEP8 : https://www.python.org/dev/peps/pep-0008
-[^3]: pep8 1.6.2 : https://pypi.python.org/pypi/pep8/1.6.2 
+[^1]: 키콤백신 프로젝트 : <http://www.kicomav.com>
+[^2]: PEP8 : <https://www.python.org/dev/peps/pep-0008>
+[^3]: pep8 1.6.2 : <https://pypi.python.org/pypi/pep8/1.6.2> 
 [^4]: 관련 링크 : [A Foolish Consistency is the Hobgoblin of Little Minds. ](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds)
 
 ***
 
-####Update
+#### Update
 
 - 2015-09-03 : 최초로 작성
 

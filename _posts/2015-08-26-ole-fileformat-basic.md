@@ -119,14 +119,14 @@ OLE 헤더 블록은 OLE 파일의 주요 정보들을 담고 있는 블록이�
 
 
 
-[^1]: COM Structured Storage : http://en.wikipedia.org/wiki/COM_Structured_Storage
-[^2]: SSViewer(Structured Storage Viewer) : http://www.mitec.cz/ssv.html
-[^3]: 매크로 바이러스 : http://en.wikipedia.org/wiki/Macro_virus
-[^4]: LAOLA 프로젝트 : http://stuff.mit.edu/afs/athena/astaff/project/mimeutils/share/laola
+[^1]: COM Structured Storage : <http://en.wikipedia.org/wiki/COM_Structured_Storage>
+[^2]: SSViewer(Structured Storage Viewer) : <http://www.mitec.cz/ssv.html>
+[^3]: 매크로 바이러스 : <http://en.wikipedia.org/wiki/Macro_virus>
+[^4]: LAOLA 프로젝트 : <http://stuff.mit.edu/afs/athena/astaff/project/mimeutils/share/laola>
 
 
 ***
 
-####Update
+#### Update
 
 - 2015-08-26 : 최초로 작성

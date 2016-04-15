@@ -14,19 +14,19 @@ tags: 스크리브너 글쓰기
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/BH_nOnjU5bs' frameborder='0' allowfullscreen></iframe></div>
 
-[출처] : https://www.youtube.com/watch?v=BH_nOnjU5bs
+[출처] : <https://www.youtube.com/watch?v=BH_nOnjU5bs>
 
 ## 3. 스크리브너 사용법 (2) : 둘러보기
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/3X4vbOLEeSI' frameborder='0' allowfullscreen></iframe></div>
 
-[출처] : https://www.youtube.com/watch?v=3X4vbOLEeSI
+[출처] : <https://www.youtube.com/watch?v=3X4vbOLEeSI>
 
 ## 4. 스크리브너 사용법 (3) : 글 작성하기
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Qz77GMZ4QX8' frameborder='0' allowfullscreen></iframe></div>
 
-[출처] : https://www.youtube.com/watch?v=Qz77GMZ4QX8
+[출처] : <https://www.youtube.com/watch?v=Qz77GMZ4QX8>
 
 ## 5. 결론
 
@@ -40,4 +40,4 @@ tags: 스크리브너 글쓰기
 - 2015-09-29 : 최초로 작성
 
 
-[^1]: 진짜배기 : http://jinzzabegi.com/
+[^1]: 진짜배기 : <http://jinzzabegi.com/>

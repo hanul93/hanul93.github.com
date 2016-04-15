@@ -28,12 +28,15 @@ tags: 키콤백신 파이썬 문법
 - 파이썬 키워드는 변수 명으로 사용할 수 없다. 
 
 ```
-False, None, True, and, as, assert, break, class, continue, def, del, elif, else, except, finally, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield
+False, None, True, and, as, assert, break, class, continue, def, del, 
+elif, else, except, finally, for, from, global, if, import, in, is, 
+lambda, nonlocal, not, or, pass, raise, return, try, while, with, 
+yield
 ```
 
 ### 2.2 변수에 값 대입하기
 
-변수에 값을 대입할 때에는 "="을 사용하면 된다.
+변수에 값을 대입할 때에는 ```=```을 사용하면 된다.
 
 **예) 간단한 백신의 버전을 변수에 저장하기**
 
@@ -42,7 +45,7 @@ major_version = 1 # 주 버전을 저장한다.
 minor_version = 0 # 부 버전을 저장한다.
 ```
 
-위의 예제는 각 변수에 정수 1과 0을 대입하고 있다. 참고로 "#" 이후의 내용은 주석문을 의미한다.
+위의 예제는 각 변수에 정수 1과 0을 대입하고 있다. 참고로 ```#``` 이후의 내용은 주석문을 의미한다.
 
 ### 2.3 변수 삭제하기
 
@@ -109,7 +112,7 @@ EICAR for KICOM Anti-Virus ver1.0
 
 ### 4.2 문자열 포맷팅
 
-[리스트1]의 두번째 줄에서 %로 표현된 부분이 문자열에 포함되어 있지만 출력 결과에서는 % 문자를 볼 수 없다. 그 자리에는 다른 문자열 혹은 숫자로 치환된 것을 볼 수 있다. 이처럼 특정 변수의 값을 특별한 형식(포맷)으로 표현한 문자열을 문자열 포맷팅이라고 한다.
+[리스트1]의 두번째 줄에서 ```%```로 표현된 부분이 문자열에 포함되어 있지만 출력 결과에서는 % 문자를 볼 수 없다. 그 자리에는 다른 문자열 혹은 숫자로 치환된 것을 볼 수 있다. 이처럼 특정 변수의 값을 특별한 형식(포맷)으로 표현한 문자열을 문자열 포맷팅이라고 한다.
 
 문자열 포맷팅은 종류도 다양하기 때문에 다음 표로 정리하였다.
 
@@ -214,7 +217,7 @@ print str(major) + "." + str(minor)
 
 ***
 
-####Update
+#### Update
 
 - 2015-09-10 : 문서 링크 추가 작성
 - 2015-09-08 : 문자열 함수 추가 작성
