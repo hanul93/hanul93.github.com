@@ -77,7 +77,7 @@ permalink: /lecture/
 
 ## 지란지교 시큐리티
 
-<div class="highlighter-rouge"><pre class="highlight"><code>- 2016.06.15 (24h) : 한글 문서 취약점 악성코드 분석 및 탐지 방법
+<div class="highlighter-rouge"><pre class="highlight"><code>- 2016.06.15 (8h) : 한글 문서 취약점 악성코드 분석 및 탐지 방법
 </code></pre>
 </div>
 
