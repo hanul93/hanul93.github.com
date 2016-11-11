@@ -87,7 +87,12 @@ permalink: /about/
 
 ### 발표
 
-<div class="highlighter-rouge"><pre class="highlight"><code>- 2016.04.27 : NETSEC-KR2016, 한글 문서 취약점 악성코드 유형 및 분석 사례
+<div class="highlighter-rouge"><pre class="highlight"><code>- 2016.10.15 : CodeEngn 비공개 세미나, 숨겨진 베일을 벗겨라 (2탄)
+- 2016.06.25 : 서울여자대학교 정보보호영재교육원, 대한민국에서 백신전문가로살아가기
+- 2016.05.27 : 선린대학교, 소프트웨어 전쟁 시대, 당신은 누구의 편인가?
+- 2016.04.27 : NETSEC-KR2016, 한글 문서 취약점 악성코드 유형 및 분석 사례
+- 2015.11.10 : 외교부, 개인정보유출 및 사고 사례로 알아보는 악성코드의 위협 및 대처방법
+- 2015.01.31 : 경일대학교, 취업멘토링프로그램, 제대로 즐기기
 - 2014.10.24 : 국가기록원 세미나, 디지털 기록시대의 해킹과 방어 기술
 - 2014.01.02 : NIPA 테크니컬 세미나, <a href="https://www.youtube.com/watch?v=galZ5TIQANc">보안을 위한 강력한 파이썬 스크립트 언어</a>
 - 2014.04.06 : SUA Open Study, <a href="https://www.youtube.com/watch?v=6u4LG7NTthM">최원혁 대표님의 "OLE 파일 구조 기초 강의" Part 2</a>
@@ -107,3 +112,7 @@ permalink: /about/
 - 2001.11.31 : KIOW2001, <a href="http://www.netmanias.com/ko/post/elearning/1720">바이러스 최근 동향 분석 (하우리, 최원혁 팀장)</a>
 </code></pre>
 </div>
+
+### 강의
+
+강의 대상자를 가나다, ABCD 순으로 별도 정리하였다. [<a href="/lecture/">자세히 보기</a>]
