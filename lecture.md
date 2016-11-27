@@ -39,6 +39,13 @@ permalink: /lecture/
 </div>
 
 
+## 단국대학교
+
+<div class="highlighter-rouge"><pre class="highlight"><code>- 2016.11.26 (2h) : 파이썬으로 배우는 Anti-Virus 구조와 원리
+</code></pre>
+</div>
+
+
 ## 대구대학교
 
 <div class="highlighter-rouge"><pre class="highlight"><code>- 2015.01.17 (4h) : 파일 바이러스 분석
