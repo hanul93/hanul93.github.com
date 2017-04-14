@@ -50,7 +50,8 @@ permalink: /about/
 
 ### 언론
 
-<div class="highlighter-rouge"><pre class="highlight"><code>- 2016.08.22 : 데일리시큐, <a href="http://www.dailysecu.com/news/articleView.html?idxno=15428">다수 공공-민간 사이트 개인정보 유출 취약점 방치…누리랩, ...</a>
+<div class="highlighter-rouge"><pre class="highlight"><code>- 2017.04.10 : 매일경제, <a href="http://news.mk.co.kr/newsRead.php?&year=2017&no=242845">최원혁 누리랩 대표, 모교 후배들과 백신 공동 개발...</a>
+- 2016.08.22 : 데일리시큐, <a href="http://www.dailysecu.com/news/articleView.html?idxno=15428">다수 공공-민간 사이트 개인정보 유출 취약점 방치…누리랩, ...</a>
 - 2016.08.04 : 데일리시큐, <a href="http://www.dailysecu.com/news/articleView.html?idxno=15214">[인터뷰] 최원혁 누리랩 대표 "한국의 팔란티어를 꿈꾸며"</a>
 - 2016.07.23 : 투데이뉴스, <a href="http://www.ntoday.co.kr/news/articleView.html?idxno=45941">국세청 ‘홈택스’ 홈페이지서 개인 정보 유출 취약점 발견</a>
 - 2016.07.19 : 시사위크, <a href="http://www.sisaweek.com/news/articleView.html?idxno=74269">2000억들인 홈택스, “기자도 뚫었다”</a>
