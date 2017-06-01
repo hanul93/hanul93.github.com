@@ -13,20 +13,20 @@ permalink: /learn/
 
 ### 1. 악성코드와 백신의 이해
 
-<ul>
-    <li>준비중...
-    </li>
-</ul>
+* 준비중...
+
     
 ### 2. 간단한 전용백신 만들기
 
+* 준비중...
 * [미션 9: 암호화 도구 만들기](https://youtu.be/nmM-YibLvPA)
-* 미션 10: 복호화 도구 만들기 (동적 로딩)
+* [미션 10: 복호화 도구 만들기 (동적 로딩)](https://youtu.be/wkYKj5E4fYY)
+
 
 ### 3. 플러그인 구조의 백신 만들기
 
-* 플러그인 엔진 구조의 이해
-* [미션 11] dummy 플러그인 엔진 만들기
-* [미션 12] eicar 플러그인 엔진 만들기
-* 플러그인 엔진 구조의 고려사항
+* [플러그인 엔진 구조의 이해](https://youtu.be/Js_qr6kFuEk)
+* [미션 11: dummy 플러그인 엔진 만들기](https://youtu.be/bVWAeGycGF0)
+* [미션 12: eicar 플러그인 엔진 만들기](https://youtu.be/t-iHHDHokuE)
+* [플러그인 엔진 구조의 고려사항](https://youtu.be/ZVtJcOInigI)
 
