@@ -20,12 +20,8 @@ permalink: /learn/
     
 ### 2. 간단한 전용백신 만들기
 
-<ul>
-    <li>[미션 9: 암호화 도구 만들기](https://youtu.be/nmM-YibLvPA)
-    </li>
-    <li>미션 10: 복호화 도구 만들기 (동적 로딩) ...
-    </li>
-</ul>
+* [미션 9: 암호화 도구 만들기](https://youtu.be/nmM-YibLvPA)
+* 미션 10: 복호화 도구 만들기 (동적 로딩)
 
 ### 3. 플러그인 구조의 백신 만들기
 
