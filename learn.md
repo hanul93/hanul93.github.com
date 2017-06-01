@@ -14,7 +14,7 @@ permalink: /learn/
 ### 1. 악성코드와 백신의 이해
 
 <ul>
-    <li>준비중
+    <li>준비중...
     </li>
 </ul>
     
@@ -23,9 +23,9 @@ permalink: /learn/
 <ul>
     <li>[미션 9] 암호화 도구 만들기 <img src='/images/video-icon-2.png' width=20 height=20>
     </li>
+    <li>[미션 10] 복호화 도구 만들기 (동적 로딩) ...
+    </li>
 </ul>
-
-* [미션 10] 복호화 도구 만들기 (동적 로딩)
 
 ### 3. 플러그인 구조의 백신 만들기
 
