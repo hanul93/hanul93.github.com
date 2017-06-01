@@ -26,9 +26,9 @@ permalink: /learn/
 ### 3. 플러그인 구조의 백신 만들기
 
 * [플러그인 엔진 구조의 이해](https://youtu.be/Js_qr6kFuEk)
-* [미션 11: dummy 플러그인 엔진 만들기](https://youtu.be/bVWAeGycGF0)
-* [미션 12: eicar 플러그인 엔진 만들기](https://youtu.be/t-iHHDHokuE)
-* [플러그인 엔진 구조의 고려사항](https://youtu.be/ZVtJcOInigI)
+    * [미션 11: dummy 플러그인 엔진 만들기](https://youtu.be/bVWAeGycGF0)
+    * [미션 12: eicar 플러그인 엔진 만들기](https://youtu.be/t-iHHDHokuE)
+    * [플러그인 엔진 구조의 고려사항](https://youtu.be/ZVtJcOInigI)
 * 백신 커널 만들기
     * [미션 13: 플러그인 엔진의 로딩 우선순위 해결하기](https://youtu.be/xnzFkmJ4ukU)
 
