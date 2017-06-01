@@ -30,5 +30,5 @@ permalink: /learn/
 * [미션 12: eicar 플러그인 엔진 만들기](https://youtu.be/t-iHHDHokuE)
 * [플러그인 엔진 구조의 고려사항](https://youtu.be/ZVtJcOInigI)
 * 백신 커널 만들기
-** [미션 13: 플러그인 엔진의 로딩 우선순위 해결하기](https://youtu.be/xnzFkmJ4ukU)
+    * [미션 13: 플러그인 엔진의 로딩 우선순위 해결하기](https://youtu.be/xnzFkmJ4ukU)
 
