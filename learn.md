@@ -31,4 +31,9 @@ permalink: /learn/
     * [플러그인 엔진 구조의 고려사항](https://youtu.be/ZVtJcOInigI)
 * 백신 커널 만들기
     * [미션 13: 플러그인 엔진의 로딩 우선순위 해결하기](https://youtu.be/xnzFkmJ4ukU)
+    * 미션 14: 백신 커널 만들기
+        * [백신 커널 만들기 (1) : init, uninit](https://youtu.be/O0Iq_xa6Htc)
+        * [백신 커널 만들기 (2) : listvirus, getinfo, scan, disinfect](https://youtu.be/FYKJY4QLYe4)
+        
+        
 
