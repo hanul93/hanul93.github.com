@@ -34,6 +34,8 @@ permalink: /learn/
     * 미션 14: 백신 커널 만들기
         * [백신 커널 만들기 (1) : init, uninit](https://youtu.be/O0Iq_xa6Htc)
         * [백신 커널 만들기 (2) : listvirus, getinfo, scan, disinfect](https://youtu.be/FYKJY4QLYe4)
+    * [미션 15: 공유 라이브러리 만들기](https://youtu.be/cujZ9nOD52M)
+    * [미션 16: 공유 라이브러리를 이용한 eicar 플러그인 엔진 수정하기](https://youtu.be/FdUIrcUTIh4)
         
         
 
