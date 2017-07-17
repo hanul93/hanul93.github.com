@@ -88,7 +88,8 @@ permalink: /about/
 
 ### 발표
 
-<div class="highlighter-rouge"><pre class="highlight"><code>- 2017.03.23 : 한국정보보호학회 단기강좌, <a href="http://kcert.designq.kr/bbs/board.php?bo_table=s62&wr_id=683">문서 취약점을 이용한 APT 악성코드 분석</a>
+<div class="highlighter-rouge"><pre class="highlight"><code>- 2017.07.15 : 시큐리티플러스 오픈 보안 컨퍼런스, <a href="http://cafe.naver.com/securityplus/24197">오픈 소스 백신이 가지는 의미</a>
+- 2017.03.23 : 한국정보보호학회 단기강좌, <a href="http://kcert.designq.kr/bbs/board.php?bo_table=s62&wr_id=683">문서 취약점을 이용한 APT 악성코드 분석</a>
 - 2016.10.15 : CodeEngn 비공개 세미나, 숨겨진 베일을 벗겨라 (2탄)
 - 2016.06.25 : 서울여자대학교 정보보호영재교육원, 대한민국에서 백신전문가로살아가기
 - 2016.05.27 : 선린대학교, 소프트웨어 전쟁 시대, 당신은 누구의 편인가?
