@@ -7,6 +7,12 @@ permalink: /lecture/
 
 강의를 문의하고 싶다면 <a href="mailto:hanul93@gmail.com">최원혁(hanul93@gmail.com)</a>으로 부탁합니다.
 
+## 가천대학교
+
+<div class="highlighter-rouge"><pre class="highlight"><code>- 2017.08.30 (2h) : 악성코드와 인공지능 백신
+</code></pre>
+</div>
+
 
 ## 게임물관리위원회
 
@@ -32,7 +38,8 @@ permalink: /lecture/
 
 ## 국방부
 
-<div class="highlighter-rouge"><pre class="highlight"><code>- 2017.07.13 (8h) : 악성코드와 인공지능 백신
+<div class="highlighter-rouge"><pre class="highlight"><code>- 2017.09.14 (8h) : 악성코드와 인공지능 백신
+- 2017.07.13 (8h) : 악성코드와 인공지능 백신
 - 2017.06.22 (8h) : 악성코드와 인공지능 백신
 - 2016.09.22 (16h) : 악성코드 탐지를 위한 정규표현식 실습
 - 2016.07.07 (16h) : 악성코드 탐지를 위한 정규표현식 실습
@@ -49,6 +56,11 @@ permalink: /lecture/
 </code></pre>
 </div>
 
+## 경일대학교 컴퓨터공학과내동아리 키콤
+
+<div class="highlighter-rouge"><pre class="highlight"><code>- 2017.04.08 (64h) : 파이썬으로 배우는 Anti-Virus 구조와 원리
+</code></pre>
+</div>
 
 ## 단국대학교
 
