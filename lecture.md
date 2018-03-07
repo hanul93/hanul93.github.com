@@ -29,6 +29,12 @@ permalink: /lecture/
 </code></pre>
 </div>
 
+## 국민대학교
+
+<div class="highlighter-rouge"><pre class="highlight"><code>- 2018.03.17 (40h) : 실무에 바로 활용하는 리버스엔지니어링 실전
+</code></pre>
+</div>
+
 ## 국방과학연구소
 
 <div class="highlighter-rouge"><pre class="highlight"><code>- 2017.03.20 (2h) : 디지털 포렌식을 위한 문서 파일 포맷 분석
