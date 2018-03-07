@@ -3,7 +3,7 @@ layout: post
 title: 키콤백신 - 파이썬으로 배우는 Anti-Virus 구조와 원리 
 description: 키콤백신의 개발 과정이 담긴 책을 소개한다.
 date: 2017-09-29 10:05:00 
-tags: 파일포맷 PE ASN1
+tags: 키콤백신 책쓰기
 ---
 
 ## 1. 개요
