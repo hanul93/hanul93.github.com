@@ -67,7 +67,7 @@ html {
 
 body {
     background: #f2f2f2;
-    font: 18px/1.6 "Apple SD Gothic Neo", 'ë‚˜ëˆ”ê³ ë”•', NanumGothic, 'ë‹ìŒ', Dotum;
+    font: 18px/1.6 "Apple SD Gothic Neo", '³ª´®°íµñ', NanumGothic, 'µ¸À½', Dotum;
     color: #3c3c3c
 }
 
@@ -79,7 +79,7 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: "Apple SD Gothic Neo", 'ë‚˜ëˆ”ê³ ë”•', NanumGothic, 'ë‹ìŒ', Dotum;
+    font-family: "Apple SD Gothic Neo", '³ª´®°íµñ', NanumGothic, 'µ¸À½', Dotum;
     color: #222;
     font-weight: bold;
     line-height: 1.7;
@@ -259,7 +259,7 @@ img.aligncenter {
     margin: 0;
     color: #3c3c3c;
     cursor: pointer;
-    font-family: "Apple SD Gothic Neo", 'ë‚˜ëˆ”ê³ ë”•', NanumGothic, 'ë‹ìŒ', Dotum;
+    font-family: "Apple SD Gothic Neo", '³ª´®°íµñ', NanumGothic, 'µ¸À½', Dotum;
     font-weight: 300;
     font-size: 28px;
     letter-spacing: 1px
@@ -281,7 +281,7 @@ nav {
     float: right;
     margin-top: 17px;
     display: inline-block;
-    font-family: "Apple SD Gothic Neo", 'ë‚˜ëˆ”ê³ ë”•', NanumGothic, 'ë‹ìŒ', Dotum;
+    font-family: "Apple SD Gothic Neo", '³ª´®°íµñ', NanumGothic, 'µ¸À½', Dotum;
     font-size: 18px
 }
 
