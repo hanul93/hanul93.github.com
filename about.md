@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: 소개
 permalink: /about/
@@ -10,7 +10,7 @@ permalink: /about/
 
 ## 학력
 
-<div class="highlighter-rouge"><pre class="highlight"><code>- 2013.03 - 2015.02 : 동국대학교 정보통신공학과 컴퓨터공학 박사 수료 
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2013.03 - 2015.02 : 동국대학교 정보통신공학과 컴퓨터공학 박사 수료 
 - 1998.09 - 2001.02 : 동국대학교 국제정보대학원 정보보호학 석사 졸업 
 - 1993.02 - 1997.02 : 경일대학교 컴퓨터공학 학사 졸업 
 </code></pre>
@@ -18,7 +18,7 @@ permalink: /about/
 
 ## 경력
 
-<div class="highlighter-rouge"><pre class="highlight"><code>- 2015.03 - 현    재 : <a href="http://www.nurilab.com">(주)누리랩</a> 대표이사 (법인전환) 
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2015.03 - 현    재 : <a href="http://www.nurilab.com">(주)누리랩</a> 대표이사 (법인전환) 
 - 2011.05 - 2015.03 : 누리랩 대표 
 - 2011.11 - 2014.03 : (주)잉카인터넷 보안기술 CSO 이사 
 - 2009.09 - 2010.10 : (주)터보테크 난독화 솔루션 개발 팀장            
