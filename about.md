@@ -50,7 +50,18 @@ permalink: /about/
 
 ### 언론
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.04.10 : 매일경제, <a href="http://news.mk.co.kr/newsRead.php?&year=2017&no=242845">최원혁 누리랩 대표, 모교 후배들과 백신 공동 개발...</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.02.02 : 아이뉴스24, <a href="http://news.inews24.com/php/news_view.php?g_serial=1075212&g_menu=020200&rrf=nv">[인터뷰] 백신 외길 26년, 소스코드 공개한 사연은</a>
+- 2018.01.28 : 전자신문, <a href="http://www.etnews.com/20180128000039">최원혁 누리랩 대표 "백신 생태계 바꿀 '백신 엔진 플랫폼' 만들 것"</a>
+- 2018.01.20 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=66178&kind=1">보안전문가가 뽑은 2018년 보안위협은?</a>
+- 2017.12.08 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=58438&kind=1">[인터뷰] 최원혁:보안위협, 2017년은 랜섬웨어 2018년은 IoT</a>
+- 2017.11.26 : CIOBiz, <a href="http://www.ciobiz.co.kr/news/article.html?id=20171124120016">판 커진 리눅스 보안솔루션 시장...국내 업체 활발한 움직임</a>
+- 2017.11.23 : 아이뉴스24, <a href="http://news.inews24.com/php/news_view.php?g_serial=1062109&g_menu=020200&rrf=nv">누리랩, 국제 안티멀웨어 테스트 표준화 기구(AMTSO) 가입</a>
+- 2017.11.22 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=58150&kind=">북한의 연쇄적인 사이버공격, 드러난 피해 집계해보니</a>
+- 2018.11.21 : 전자신문, <a href="http://www.etnews.com/20171121000239">누리랩, 리눅스·모바일용 솔루션으로 안티 랜섬웨어 시장 도전장</a>
+- 2017.08.29 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=56680&kind=1">인기 미드 ‘왕좌의 게임’ 미끼로 악성코드 유포...국내 IP 악용 外</a>
+- 2017.08.23 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=56539&kind=1">새 먹잇감 찾아 몰려든 해커들, 가상화폐 거래소 피싱 공격 ‘난무’</a>
+- 2017.08.17 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=56414&kind=1">페이스북 메신저로 받은 동영상 링크, 무심코 클릭했다간 털린다!</a>
+- 2017.04.10 : 매일경제, <a href="http://news.mk.co.kr/newsRead.php?&year=2017&no=242845">최원혁 누리랩 대표, 모교 후배들과 백신 공동 개발...</a>
 - 2016.08.22 : 데일리시큐, <a href="http://www.dailysecu.com/news/articleView.html?idxno=15428">다수 공공-민간 사이트 개인정보 유출 취약점 방치…누리랩, ...</a>
 - 2016.08.04 : 데일리시큐, <a href="http://www.dailysecu.com/news/articleView.html?idxno=15214">[인터뷰] 최원혁 누리랩 대표 "한국의 팔란티어를 꿈꾸며"</a>
 - 2016.07.23 : 투데이뉴스, <a href="http://www.ntoday.co.kr/news/articleView.html?idxno=45941">국세청 ‘홈택스’ 홈페이지서 개인 정보 유출 취약점 발견</a>
@@ -76,7 +87,8 @@ permalink: /about/
 
 ### 기고
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2006.04.13 : 하우리, <a href="http://hauri.co.kr/information/issue_view.html?intSeq=61&page=1&article_num=79">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part III</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.10.16 : 마이크로소프트웨어, <a href="http://biz.chosun.com/site/data/html_dir/2017/10/16/2017101600688.html">오픈소스 백신이 가지는 의미</a>
+- 2006.04.13 : 하우리, <a href="http://hauri.co.kr/information/issue_view.html?intSeq=61&page=1&article_num=79">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part III</a>
 - 2006.03.15 : 하우리, <a href="http://hauri.co.kr/information/issue_view.html?intSeq=60&page=1&article_num=78">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part II</a>
 - 2006.02.15 : 하우리, <a href="http://hauri.co.kr/information/issue_view.html?intSeq=60&page=1&article_num=77">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part I</a>
 - 2006.01.01 : 경영과컴퓨터, <a href="http://www.kodb.or.kr/info/info_06.php?field=bcuvkqpgbk&keyword=&type=techreport&page=274&dbnum=127088&mode=detail&type=techreport">3회 : 바이러스로부터 안전한 환경 구축 방법</a>
