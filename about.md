@@ -10,7 +10,7 @@ permalink: /about/
 
 ## 학력
 
-<div class="highlighter-rouge"><pre class="highlight"><code>- 2013.03 - 2015.02 : 동국대학교 정보통신공학과 컴퓨터공학 박사 수료 
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2013.03 - 2015.02 : 동국대학교 정보통신공학과 컴퓨터공학 박사 수료 
 - 1998.09 - 2001.02 : 동국대학교 국제정보대학원 정보보호학 석사 졸업 
 - 1993.02 - 1997.02 : 경일대학교 컴퓨터공학 학사 졸업 
 </code></pre>
@@ -18,7 +18,7 @@ permalink: /about/
 
 ## 경력
 
-<div class="highlighter-rouge"><pre class="highlight"><code>- 2015.03 - 현    재 : <a href="http://www.nurilab.com">(주)누리랩</a> 대표이사 (법인전환) 
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2015.03 - 현    재 : <a href="http://www.nurilab.com">(주)누리랩</a> 대표이사 (법인전환) 
 - 2011.05 - 2015.03 : 누리랩 대표 
 - 2011.11 - 2014.03 : (주)잉카인터넷 보안기술 CSO 이사 
 - 2009.09 - 2010.10 : (주)터보테크 난독화 솔루션 개발 팀장            
@@ -28,7 +28,7 @@ permalink: /about/
 
 ## 이력
 
-<div class="highlighter-rouge"><pre class="highlight"><code>- 2016.09 - 현    재 : 김포대학교 사이버보안과 외래교수
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2016.09 - 현    재 : 김포대학교 사이버보안과 외래교수
 - 2014.03 - 현    재 : 사이버보안전문단 (미래창조과학부 임명) 
 - 2009.03 - 현    재 : 동국대학교 국제정보대학원 정보보호학과 사이버포렌식전공 교수 
 - 2004.10 - 2014.03 : 방통위 민간합동조사단 운영위원           
@@ -38,7 +38,7 @@ permalink: /about/
 
 ## 수상
 
-<div class="highlighter-rouge"><pre class="highlight"><code>- 2012.10 : 일본 인터폴 감사장 (제14회 인터폴 IT 범죄 전문가 그룹에서 세션 발표 
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2012.10 : 일본 인터폴 감사장 (제14회 인터폴 IT 범죄 전문가 그룹에서 세션 발표 
 - 2012.04 : 한국인터넷진흥원장 공로상 (국제 해킹방어대회에 기여한 공로 인정) 
 - 2011.04 : 한국인터넷진흥원장 공로상 (국제 해킹방어대회에 기여한 공로 인정) 
 - 2009.01 : 국가정보원장 표창 (국가안전보장에 기여한 공로 인정) 
@@ -50,7 +50,7 @@ permalink: /about/
 
 ### 언론
 
-<div class="highlighter-rouge"><pre class="highlight"><code>- 2017.04.10 : 매일경제, <a href="http://news.mk.co.kr/newsRead.php?&year=2017&no=242845">최원혁 누리랩 대표, 모교 후배들과 백신 공동 개발...</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.04.10 : 매일경제, <a href="http://news.mk.co.kr/newsRead.php?&year=2017&no=242845">최원혁 누리랩 대표, 모교 후배들과 백신 공동 개발...</a>
 - 2016.08.22 : 데일리시큐, <a href="http://www.dailysecu.com/news/articleView.html?idxno=15428">다수 공공-민간 사이트 개인정보 유출 취약점 방치…누리랩, ...</a>
 - 2016.08.04 : 데일리시큐, <a href="http://www.dailysecu.com/news/articleView.html?idxno=15214">[인터뷰] 최원혁 누리랩 대표 "한국의 팔란티어를 꿈꾸며"</a>
 - 2016.07.23 : 투데이뉴스, <a href="http://www.ntoday.co.kr/news/articleView.html?idxno=45941">국세청 ‘홈택스’ 홈페이지서 개인 정보 유출 취약점 발견</a>
@@ -76,7 +76,7 @@ permalink: /about/
 
 ### 기고
 
-<div class="highlighter-rouge"><pre class="highlight"><code>- 2006.04.13 : 하우리, <a href="http://hauri.co.kr/information/issue_view.html?intSeq=61&page=1&article_num=79">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part III</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2006.04.13 : 하우리, <a href="http://hauri.co.kr/information/issue_view.html?intSeq=61&page=1&article_num=79">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part III</a>
 - 2006.03.15 : 하우리, <a href="http://hauri.co.kr/information/issue_view.html?intSeq=60&page=1&article_num=78">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part II</a>
 - 2006.02.15 : 하우리, <a href="http://hauri.co.kr/information/issue_view.html?intSeq=60&page=1&article_num=77">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part I</a>
 - 2006.01.01 : 경영과컴퓨터, <a href="http://www.kodb.or.kr/info/info_06.php?field=bcuvkqpgbk&keyword=&type=techreport&page=274&dbnum=127088&mode=detail&type=techreport">3회 : 바이러스로부터 안전한 환경 구축 방법</a>
@@ -88,7 +88,7 @@ permalink: /about/
 
 ### 발표
 
-<div class="highlighter-rouge"><pre class="highlight"><code>- 2017.07.15 : 시큐리티플러스 오픈 보안 컨퍼런스, <a href="http://cafe.naver.com/securityplus/24197">오픈 소스 백신이 가지는 의미</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.07.15 : 시큐리티플러스 오픈 보안 컨퍼런스, <a href="http://cafe.naver.com/securityplus/24197">오픈 소스 백신이 가지는 의미</a>
 - 2017.03.23 : 한국정보보호학회 단기강좌, <a href="http://kcert.designq.kr/bbs/board.php?bo_table=s62&wr_id=683">문서 취약점을 이용한 APT 악성코드 분석</a>
 - 2016.10.15 : CodeEngn 비공개 세미나, 숨겨진 베일을 벗겨라 (2탄)
 - 2016.06.25 : 서울여자대학교 정보보호영재교육원, 대한민국에서 백신전문가로살아가기
