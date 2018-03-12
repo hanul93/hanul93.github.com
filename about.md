@@ -36,6 +36,12 @@ permalink: /about/
 </code></pre>
 </div> 
 
+## 저서
+
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.09.29 : <a href="/kicomav-book/">파이썬으로 배우는 Anti-Virus 구조와 원리</a>
+</code></pre>
+</div> 
+
 ## 수상
 
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2012.10 : 일본 인터폴 감사장 (제14회 인터폴 IT 범죄 전문가 그룹에서 세션 발표 
