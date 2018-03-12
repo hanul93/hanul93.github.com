@@ -16,7 +16,15 @@ permalink: /lecture/
 
 ## 게임물관리위원회
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2016.10.17 (20h) : 실무에 바로 활용하는 파이썬(Python) 이론과 실습
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.12.06 (4h) : IDA Pro 개요와 실습
+- 2017.12.05 (4h) : IDA Pro 개요와 실습
+- 2016.10.17 (20h) : 실무에 바로 활용하는 파이썬(Python) 이론과 실습
+</code></pre>
+</div>
+
+## 국가기록원
+
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.12.22 (2h) : 손상된 문서 파일의 복원 원리
 </code></pre>
 </div>
 
@@ -44,7 +52,9 @@ permalink: /lecture/
 
 ## 국방부
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.09.14 (8h) : 악성코드와 인공지능 백신
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.11.30 (16h) : 악성코드와 인공지능 백신
+- 2017.10.26 (16h) : 악성코드와 인공지능 백신
+- 2017.09.14 (8h) : 악성코드와 인공지능 백신
 - 2017.07.13 (8h) : 악성코드와 인공지능 백신
 - 2017.06.22 (8h) : 악성코드와 인공지능 백신
 - 2016.09.22 (16h) : 악성코드 탐지를 위한 정규표현식 실습
@@ -59,6 +69,14 @@ permalink: /lecture/
 - 2016.03.19 (16h) : 침해사고 조사 및 악성코드 분석 실습
 - 2016.11.11 (24h) : 문서 파일 악성코드 분석 및 암호화(난독화) 알고리즘 분석
 - 2015.09.07 (35h) : 파이썬으로 배우는 Anti-Virus 구조와 원리
+</code></pre>
+</div>
+
+## 국세청
+
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.12.26 (8h) : 모바일 포렌식 실습
+- 2017.12.08 (5h) : 모바일 포렌식 실습
+- 2017.11.02 (8h) : 모바일 포렌식 실습
 </code></pre>
 </div>
 
