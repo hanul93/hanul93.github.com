@@ -56,7 +56,9 @@ permalink: /about/
 
 ### 언론
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.02.02 : 아이뉴스24, <a href="http://news.inews24.com/php/news_view.php?g_serial=1075212&g_menu=020200&rrf=nv">[인터뷰] 백신 외길 26년, 소스코드 공개한 사연은</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.04.10 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=68281&kind=1">대전대학교, 4만 2,361건 개인정보 유출...교육분야 보안 ‘비상’</a>
+- 2018.04.01 : 전자신문, <a href="http://www.etnews.com/20180330000237">블록체인부터 IoT보안까지...NetSec-KR 내달 12일 코엑스서 개최</a>
+- 2018.03.20 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=67662&kind=">‘견적서.exe’ 실행파일 주의! 사용자 계정정보 털린다</a>
 - 2018.01.28 : 전자신문, <a href="http://www.etnews.com/20180128000039">최원혁 누리랩 대표 "백신 생태계 바꿀 '백신 엔진 플랫폼' 만들 것"</a>
 - 2018.01.20 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=66178&kind=1">보안전문가가 뽑은 2018년 보안위협은?</a>
 - 2017.12.08 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=58438&kind=1">[인터뷰] 최원혁:보안위협, 2017년은 랜섬웨어 2018년은 IoT</a>
