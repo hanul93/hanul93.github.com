@@ -65,7 +65,8 @@ permalink: /about/
 - 2017.11.26 : CIOBiz, <a href="http://www.ciobiz.co.kr/news/article.html?id=20171124120016">판 커진 리눅스 보안솔루션 시장...국내 업체 활발한 움직임</a>
 - 2017.11.23 : 아이뉴스24, <a href="http://news.inews24.com/php/news_view.php?g_serial=1062109&g_menu=020200&rrf=nv">누리랩, 국제 안티멀웨어 테스트 표준화 기구(AMTSO) 가입</a>
 - 2017.11.22 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=58150&kind=">북한의 연쇄적인 사이버공격, 드러난 피해 집계해보니</a>
-- 2018.11.21 : 전자신문, <a href="http://www.etnews.com/20171121000239">누리랩, 리눅스·모바일용 솔루션으로 안티 랜섬웨어 시장 도전장</a>
+- 2017.11.21 : 전자신문, <a href="http://www.etnews.com/20171121000239">누리랩, 리눅스·모바일용 솔루션으로 안티 랜섬웨어 시장 도전장</a>
+- 2017.11.02 : 아시아경제TV, <a href="https://www.youtube.com/watch?v=wmRPRGoVsXI">'클로즈업 기업현장'-(주)누리랩 편</a>
 - 2017.08.29 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=56680&kind=1">인기 미드 ‘왕좌의 게임’ 미끼로 악성코드 유포...국내 IP 악용 外</a>
 - 2017.08.23 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=56539&kind=1">새 먹잇감 찾아 몰려든 해커들, 가상화폐 거래소 피싱 공격 ‘난무’</a>
 - 2017.08.17 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=56414&kind=1">페이스북 메신저로 받은 동영상 링크, 무심코 클릭했다간 털린다!</a>
