@@ -46,7 +46,7 @@ permalink: /lecture/
 ## 국방과학연구소
 
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.03.20 (2h) : 디지털 포렌식을 위한 문서 파일 포맷 분석
-- 2017.02.09 (8h) : 문서파일취약점을이용한악성코드분석및실습
+- 2017.02.09 (8h) : 문서 파일 취약점을 이용한 악성코드 분석 및 실습
 </code></pre>
 </div>
 
