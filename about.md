@@ -77,6 +77,7 @@ permalink: /about/
 - 2016.07.19 : 시사위크, <a href="http://www.sisaweek.com/news/articleView.html?idxno=74269">2000억들인 홈택스, “기자도 뚫었다”</a>
 - 2016.07.18 : 데일리시큐, <a href="http://www.dailysecu.com/news/articleView.html?idxno=15000">청와대와 홈텍스 등 공공 및 다수 쇼핑몰에 심각한 개인정보 유출</a>
 - 2013.04.03 : ZDNet Korea, <a href="http://www.zdnet.co.kr/news/news_view.asp?artice_id=20130403165645&lo=zv40">잉카인터넷 엔프로텍트, 체크마크 인증 획득</a>
+- 2012.04.23 : 채널IT 스마트 쇼 94회, <a href="https://www.youtube.com/watch?v=vh1MbkA10xY&index=94&list=PLANiTe-B0j3wCeahnHgYJrizwefbHqj81">불량백신 저리가! 예방법 공개 잉카 인터넷 최원혁 이사</a>
 - 2005.07.28 : ZDNet Korea, <a href="http://www.zdnet.co.kr/news/news_view.asp?artice_id=00000039138360&type=det&re=">「e베이 가장한 피싱」이메일 통해 유포</a>
 - 2005.04.21 : 전자신문, <a href="http://m.etnews.com/200504200074?SNS=00004">하우리, 바이러스 엔진에 스파이웨어 제거기능 통합</a>
 - 2005.04.20 : 뉴스와이어, <a href="http://www.newswire.co.kr/newsRead.php?no=44302&ected=">하우리, 온라인 제품군 성능 강화로 온라인 시장 본격 공략</a>
