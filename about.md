@@ -68,6 +68,7 @@ permalink: /about/
 - 2017.11.22 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=58150&kind=">북한의 연쇄적인 사이버공격, 드러난 피해 집계해보니</a>
 - 2017.11.21 : 전자신문, <a href="http://www.etnews.com/20171121000239">누리랩, 리눅스·모바일용 솔루션으로 안티 랜섬웨어 시장 도전장</a>
 - 2017.11.02 : 아시아경제TV, <a href="https://www.youtube.com/watch?v=wmRPRGoVsXI">'클로즈업 기업현장'-(주)누리랩 편</a>
+- 2017.10.14 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=57471">6.25 사이버테러의 데자뷔? 똑같은 해킹 화면이 등장했다</a>
 - 2017.08.29 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=56680&kind=1">인기 미드 ‘왕좌의 게임’ 미끼로 악성코드 유포...국내 IP 악용 外</a>
 - 2017.08.23 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=56539&kind=1">새 먹잇감 찾아 몰려든 해커들, 가상화폐 거래소 피싱 공격 ‘난무’</a>
 - 2017.08.17 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=56414&kind=1">페이스북 메신저로 받은 동영상 링크, 무심코 클릭했다간 털린다!</a>
@@ -86,6 +87,7 @@ permalink: /about/
 - 2005.04.20 : 뉴스와이어, <a href="http://www.newswire.co.kr/newsRead.php?no=44302&ected=">하우리, 온라인 제품군 성능 강화로 온라인 시장 본격 공략</a>
 - 2005.01.21 : 세계일보, <a href="http://www.segye.com/content/html/2005/01/21/20050121000199.html">PC치료하는 바이러스 퇴치사</a>
 - 2004.11.24 : 디지털타임스, <a href="http://concert.or.kr/notice/notice_view.php?wr_id=145&page=36">CONCERT 해킹방지 워크샵 개최</a>
+- 2003.05.19 : 한국일보, <a href="http://hankookilbo.com/v/bf9ed967b3be47bfbaff0976bc6cef1a">새 직업 뜨는 직업/ 컴퓨터 백신개발자</a>
 - 2003.01.26 : 조선닷컴, <a href="http://www.chosun.com/national/news/200301/200301260251.html">[웜 바이러스] 인터넷대란 원인 민간업체가 밝혀냈다</a>
 - 2000.10.18 : 이코노미2, <a href="http://www.economy21.co.kr/news/articleView.html?idxno=1982">[나는프로] 하우리 기반기술팀 최원혁 팀장</a>
 - 2000.03.15 : 아이뉴스24, <a href="http://news.inews24.com/php/news_view.php?g_menu=010000&g_serial=430">[인터뷰] 하우리 기술팀장 최원혁씨</a>
@@ -101,6 +103,7 @@ permalink: /about/
 ### 기고
 
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.10.16 : 마이크로소프트웨어, <a href="http://biz.chosun.com/site/data/html_dir/2017/10/16/2017101600688.html">오픈소스 백신이 가지는 의미</a>
+- 2007.07.04 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=69&page=21&article_num=69">나만의 웹 방화벽 구축하기</a>
 - 2006.04.13 : 하우리, <a href="http://hauri.co.kr/information/issue_view.html?intSeq=61&page=1&article_num=79">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part III</a>
 - 2006.03.15 : 하우리, <a href="http://hauri.co.kr/information/issue_view.html?intSeq=60&page=1&article_num=78">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part II</a>
 - 2006.02.15 : 하우리, <a href="http://hauri.co.kr/information/issue_view.html?intSeq=60&page=1&article_num=77">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part I</a>
@@ -139,6 +142,7 @@ permalink: /about/
 - 2010.09.15 : FISCON2010, <a href="http://m.blog.naver.com/lugenzhe/90096455590">소프트웨어 역공학 및 대응 기술</a>
 - 2010.08.03 : 제8회 인터넷&정보보호세미나 프로그램, <a href="http://www.kisa.or.kr/popup/2010/002/program_detail.html">악성코드의 위협</a>
 - 2009.11.18 : 제13회 해킹방지워크샵, <a href="">바이너리코드(실행파일) 난독화의 필요성과 활용 방안</a>
+- 2003.06.27 : KRnet 2003, <a href="http://www.krnet.or.kr/board/board.php?task=view&db=dprogram&no=787&page=9&search=%C3%D6%BF%F8%C7%F5&searchKey=&category=422&pageID=ID13249498101">Traffic monitoring for security anomaly detection</a> [<a href="http://www.krnet.or.kr/board/include/download.php?no=787&db=dprogram&fileno=2">PDF</a>]
 - 2001.11.31 : KIOW2001, <a href="http://www.netmanias.com/ko/post/elearning/1720">바이러스 최근 동향 분석 (하우리, 최원혁 팀장)</a>
 </code></pre>
 </div>
