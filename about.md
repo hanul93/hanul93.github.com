@@ -60,6 +60,7 @@ permalink: /about/
 - 2018.04.01 : 전자신문, <a href="http://www.etnews.com/20180330000237">블록체인부터 IoT보안까지...NetSec-KR 내달 12일 코엑스서 개최</a>
 - 2018.03.20 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=67662&kind=">‘견적서.exe’ 실행파일 주의! 사용자 계정정보 털린다</a>
 - 2018.01.28 : 전자신문, <a href="http://www.etnews.com/20180128000039">최원혁 누리랩 대표 "백신 생태계 바꿀 '백신 엔진 플랫폼' 만들 것"</a>
+- 2018.01.22 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=66252&kind=3">누리랩, ‘누리 안티랜섬 1.0’ 버전 GS인증 1등급 획득</a>
 - 2018.01.20 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=66178&kind=1">보안전문가가 뽑은 2018년 보안위협은?</a>
 - 2017.12.08 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=58438&kind=1">[인터뷰] 최원혁:보안위협, 2017년은 랜섬웨어 2018년은 IoT</a>
 - 2017.11.26 : CIOBiz, <a href="http://www.ciobiz.co.kr/news/article.html?id=20171124120016">판 커진 리눅스 보안솔루션 시장...국내 업체 활발한 움직임</a>
@@ -76,6 +77,7 @@ permalink: /about/
 - 2016.07.23 : 투데이뉴스, <a href="http://www.ntoday.co.kr/news/articleView.html?idxno=45941">국세청 ‘홈택스’ 홈페이지서 개인 정보 유출 취약점 발견</a>
 - 2016.07.19 : 시사위크, <a href="http://www.sisaweek.com/news/articleView.html?idxno=74269">2000억들인 홈택스, “기자도 뚫었다”</a>
 - 2016.07.18 : 데일리시큐, <a href="http://www.dailysecu.com/news/articleView.html?idxno=15000">청와대와 홈텍스 등 공공 및 다수 쇼핑몰에 심각한 개인정보 유출</a>
+- 2015.04.04 : 데일리시큐, <a href="http://www.dailysecu.com/?mod=news&act=articleView&idxno=9140">오리지널 해킹보안 컨퍼런스 '김치콘' 6월 26일 개봉박두</a>
 - 2013.04.03 : ZDNet Korea, <a href="http://www.zdnet.co.kr/news/news_view.asp?artice_id=20130403165645&lo=zv40">잉카인터넷 엔프로텍트, 체크마크 인증 획득</a>
 - 2012.09.27 : SBS 8시 뉴스, <a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1001404572&plink=SEARCH&cooper=SBSNEWSSEARCH">가짜 인증창에 정보 입력을…피싱 사기 극성</a>
 - 2012.04.23 : 채널IT 스마트 쇼 94회, <a href="https://www.youtube.com/watch?v=vh1MbkA10xY&index=94&list=PLANiTe-B0j3wCeahnHgYJrizwefbHqj81">불량백신 저리가! 예방법 공개 잉카 인터넷 최원혁 이사</a>
