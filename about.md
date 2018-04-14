@@ -87,6 +87,7 @@ permalink: /about/
 - 2005.04.20 : 뉴스와이어, <a href="http://www.newswire.co.kr/newsRead.php?no=44302&ected=">하우리, 온라인 제품군 성능 강화로 온라인 시장 본격 공략</a>
 - 2005.01.21 : 세계일보, <a href="http://www.segye.com/content/html/2005/01/21/20050121000199.html">PC치료하는 바이러스 퇴치사</a>
 - 2004.11.24 : 디지털타임스, <a href="http://concert.or.kr/notice/notice_view.php?wr_id=145&page=36">CONCERT 해킹방지 워크샵 개최</a>
+- 2004.07.08 : SBS 뉴스, <a href="https://news.sbs.co.kr/news/endPage.do?news_id=N0311630539">신종 프로그램 국가기관 해킹한다 (동영상)</a>
 - 2004.02.09 : 동아일보, <a href="http://news.donga.com/List/Series_70030000000572/3/70030000000572/20040209/8027992/1">[취업난 이렇게 뚫었다]<1>한곳에 미쳐라</a>
 - 2003.05.19 : 한국일보, <a href="http://hankookilbo.com/v/bf9ed967b3be47bfbaff0976bc6cef1a">새 직업 뜨는 직업/ 컴퓨터 백신개발자</a>
 - 2003.01.26 : 조선닷컴, <a href="http://www.chosun.com/national/news/200301/200301260251.html">[웜 바이러스] 인터넷대란 원인 민간업체가 밝혀냈다</a>
