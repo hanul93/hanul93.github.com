@@ -87,8 +87,10 @@ permalink: /about/
 - 2005.04.20 : 뉴스와이어, <a href="http://www.newswire.co.kr/newsRead.php?no=44302&ected=">하우리, 온라인 제품군 성능 강화로 온라인 시장 본격 공략</a>
 - 2005.01.21 : 세계일보, <a href="http://www.segye.com/content/html/2005/01/21/20050121000199.html">PC치료하는 바이러스 퇴치사</a>
 - 2004.11.24 : 디지털타임스, <a href="http://concert.or.kr/notice/notice_view.php?wr_id=145&page=36">CONCERT 해킹방지 워크샵 개최</a>
+- 2004.02.09 : 동아일보, <a href="http://news.donga.com/List/Series_70030000000572/3/70030000000572/20040209/8027992/1">[취업난 이렇게 뚫었다]<1>한곳에 미쳐라</a>
 - 2003.05.19 : 한국일보, <a href="http://hankookilbo.com/v/bf9ed967b3be47bfbaff0976bc6cef1a">새 직업 뜨는 직업/ 컴퓨터 백신개발자</a>
 - 2003.01.26 : 조선닷컴, <a href="http://www.chosun.com/national/news/200301/200301260251.html">[웜 바이러스] 인터넷대란 원인 민간업체가 밝혀냈다</a>
+- 2002.02.25 : 중앙일보, <a href="http://news.joins.com/article/615247">Backdoor.Win32.SchoolBus에 걸리지 않는 법</a>
 - 2001.01.08 : 디지털타임스, <a href="http://www.dt.co.kr/contents.html?article_no=2001081702010151569001">인터넷 메신저, 차세대 바이러스 전파도구로</a>
 - 2000.10.18 : 이코노미2, <a href="http://www.economy21.co.kr/news/articleView.html?idxno=1982">[나는프로] 하우리 기반기술팀 최원혁 팀장</a>
 - 2000.03.15 : 아이뉴스24, <a href="http://news.inews24.com/php/news_view.php?g_menu=010000&g_serial=430">[인터뷰] 하우리 기술팀장 최원혁씨</a>
