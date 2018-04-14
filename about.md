@@ -143,7 +143,7 @@ permalink: /about/
 - 2010.09.15 : FISCON2010, <a href="http://m.blog.naver.com/lugenzhe/90096455590">소프트웨어 역공학 및 대응 기술</a>
 - 2010.08.03 : 제8회 인터넷&정보보호세미나 프로그램, <a href="http://www.kisa.or.kr/popup/2010/002/program_detail.html">악성코드의 위협</a>
 - 2009.11.18 : 제13회 해킹방지워크샵, <a href="">바이너리코드(실행파일) 난독화의 필요성과 활용 방안</a>
-- 2004.11.24 : CONCERT 해킹방지워크샵, < href="http://concert.or.kr/data/announ_view.php?wr_id=385&page=61">Spyware등 정보침해기법의 현황과 대책</a>
+- 2004.11.24 : CONCERT 해킹방지워크샵, <a href="http://concert.or.kr/data/announ_view.php?wr_id=385&page=61">Spyware등 정보침해기법의 현황과 대책</a>
 - 2003.06.27 : KRnet 2003, <a href="http://www.krnet.or.kr/board/board.php?task=view&db=dprogram&no=787&page=9&search=%C3%D6%BF%F8%C7%F5&searchKey=&category=422&pageID=ID13249498101">Traffic monitoring for security anomaly detection</a> (<a href="http://www.krnet.or.kr/board/include/download.php?no=787&db=dprogram&fileno=2">PDF</a>)
 - 2001.11.31 : KIOW2001, <a href="http://www.netmanias.com/ko/post/elearning/1720">바이러스 최근 동향 분석 (하우리, 최원혁 팀장)</a>
 </code></pre>
