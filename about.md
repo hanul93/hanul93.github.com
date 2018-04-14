@@ -81,12 +81,13 @@ permalink: /about/
 - 2015.04.04 : 데일리시큐, <a href="http://www.dailysecu.com/?mod=news&act=articleView&idxno=9140">오리지널 해킹보안 컨퍼런스 '김치콘' 6월 26일 개봉박두</a>
 - 2013.04.03 : ZDNet Korea, <a href="http://www.zdnet.co.kr/news/news_view.asp?artice_id=20130403165645&lo=zv40">잉카인터넷 엔프로텍트, 체크마크 인증 획득</a>
 - 2012.09.27 : SBS 8시 뉴스, <a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1001404572&plink=SEARCH&cooper=SBSNEWSSEARCH">가짜 인증창에 정보 입력을…피싱 사기 극성</a>
-- 2012.04.23 : 채널IT 스마트 쇼 94회, <a href="https://www.youtube.com/watch?v=vh1MbkA10xY&index=94&list=PLANiTe-B0j3wCeahnHgYJrizwefbHqj81">불량백신 저리가! 예방법 공개 잉카 인터넷 최원혁 이사</a>
+- 2012.04.23 : 채널IT 스마트 쇼 94회, <a href="https://www.youtube.com/watch?v=vh1MbkA10xY&index=94&list=PLANiTe-B0j3wCeahnHgYJrizwefbHqj81">불량백신 저리가! 예방법 공개 잉카 인터넷 최원혁 이사 (동영상)</a>
 - 2005.07.28 : ZDNet Korea, <a href="http://www.zdnet.co.kr/news/news_view.asp?artice_id=00000039138360&type=det&re=">「e베이 가장한 피싱」이메일 통해 유포</a>
 - 2005.04.21 : 전자신문, <a href="http://m.etnews.com/200504200074?SNS=00004">하우리, 바이러스 엔진에 스파이웨어 제거기능 통합</a>
 - 2005.04.20 : 뉴스와이어, <a href="http://www.newswire.co.kr/newsRead.php?no=44302&ected=">하우리, 온라인 제품군 성능 강화로 온라인 시장 본격 공략</a>
 - 2005.01.21 : 세계일보, <a href="http://www.segye.com/content/html/2005/01/21/20050121000199.html">PC치료하는 바이러스 퇴치사</a>
 - 2004.11.24 : 디지털타임스, <a href="http://concert.or.kr/notice/notice_view.php?wr_id=145&page=36">CONCERT 해킹방지 워크샵 개최</a>
+- 2004.07.13 : MBC 뉴스, <a href="http://imnews.imbc.com/20dbnews/history/2004/1950091_19594.html">국회.공군대학.통일교육연구원.천문연구원 4개기관 해킹당해 (동영상)</a>
 - 2004.07.08 : SBS 뉴스, <a href="https://news.sbs.co.kr/news/endPage.do?news_id=N0311630539">신종 프로그램 국가기관 해킹한다 (동영상)</a>
 - 2004.02.09 : 동아일보, <a href="http://news.donga.com/List/Series_70030000000572/3/70030000000572/20040209/8027992/1">[취업난 이렇게 뚫었다]<1>한곳에 미쳐라</a>
 - 2003.05.19 : 한국일보, <a href="http://hankookilbo.com/v/bf9ed967b3be47bfbaff0976bc6cef1a">새 직업 뜨는 직업/ 컴퓨터 백신개발자</a>
