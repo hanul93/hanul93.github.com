@@ -36,6 +36,17 @@ permalink: /about/
 </code></pre>
 </div> 
 
+## 특허
+
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2006.09.01 : 윈도우 디바이스 드라이버로 디스패치되는 IRP(I/ORequest Packet)의 실시간 감시 장치 및 그 방법
+- 2004.11.19 : 프로그램 패치장치 및 방법과 그 프로그램을 기록한 기록매체
+- 2004.06.10 : 패치관리 장치 및 방법과 그 프로그램을 기록한 기록매체
+- 2003.12.02 :  컴퓨터 바이러스 방역방법과 그 프로그램을 기록한 기록매체
+- 2003.05.20 :  스텔스 바이러스 치료장치 및 방법과 그 프로그램을 기록한 기록매체
+- 2003.04.14 : 메모리를 감염시키는 바이러스의 치료방법, 프로그램을 기록한 컴퓨터로 읽을 수 있는 기록매체 및 바이러스의 치료장치
+</code></pre>
+</div> 
+
 ## 저서
 
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.09.29 : <a href="/kicomav-book/">파이썬으로 배우는 Anti-Virus 구조와 원리</a>
