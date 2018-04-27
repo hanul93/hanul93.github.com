@@ -120,9 +120,9 @@ permalink: /about/
 
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.10.16 : 마이크로소프트웨어, <a href="http://biz.chosun.com/site/data/html_dir/2017/10/16/2017101600688.html">오픈소스 백신이 가지는 의미</a>
 - 2007.07.04 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=69&page=21&article_num=69">나만의 웹 방화벽 구축하기</a>
-- 2006.04.13 : 하우리, <a href="http://hauri.co.kr/information/issue_view.html?intSeq=61&page=1&article_num=79">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part III</a>
-- 2006.03.15 : 하우리, <a href="http://hauri.co.kr/information/issue_view.html?intSeq=60&page=1&article_num=78">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part II</a>
-- 2006.02.15 : 하우리, <a href="http://hauri.co.kr/information/issue_view.html?intSeq=60&page=1&article_num=77">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part I</a>
+- 2006.04.13 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=61&page=21&article_num=61">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part III</a>
+- 2006.03.15 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=60&page=23&article_num=60">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part II</a>
+- 2006.02.15 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=59&page=24&article_num=59">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part I</a>
 - 2006.01.01 : 경영과컴퓨터, <a href="http://www.kodb.or.kr/info/info_06.php?field=bcuvkqpgbk&keyword=&type=techreport&page=274&dbnum=127088&mode=detail&type=techreport">3회 : 바이러스로부터 안전한 환경 구축 방법</a>
 - 2005.12.01 : 경영과컴퓨터, <a href="http://www.dbguide.net/knowledge.db?cmd=view&boardUid=127076&boardConfigUid=20&categoryUid=574">2회 : 최신 바이러스의 동향</a>
 - 2005.11.01 : 경영과컴퓨터, <a href="http://www.kodb.or.kr/info/info_06.php?field=bcuvkqpgbk&keyword=&type=techreport&page=276&dbnum=127061&mode=detail&type=techreport">1회 : 바이러스의 과거와 현재, 그리고 미래</a>
