@@ -119,7 +119,11 @@ permalink: /about/
 ### 기고
 
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.10.16 : 마이크로소프트웨어, <a href="http://biz.chosun.com/site/data/html_dir/2017/10/16/2017101600688.html">오픈소스 백신이 가지는 의미</a>
+- 2008.05.02 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=76&article_num=76">옥션 사건으로 바라본 우리의 현실</a>
+- 2007.09.04 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=70&article_num=70">SOX !! 그들이 온다.</a>
 - 2007.07.04 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=69&article_num=69">나만의 웹 방화벽 구축하기</a>
+- 2007.06.01 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=68&article_num=68">내부자에 의한 기술 유출 방지 방법</a>
+- 2006.07.19 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=64&article_num=64">스파이웨어 정복기</a>
 - 2006.04.13 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=61&article_num=61">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part III</a>
 - 2006.03.15 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=60&article_num=60">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part II</a>
 - 2006.02.15 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=59&article_num=59">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part I</a>
