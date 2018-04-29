@@ -123,6 +123,7 @@ permalink: /about/
 - 2007.09.04 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=70&article_num=70">SOX !! 그들이 온다.</a>
 - 2007.07.04 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=69&article_num=69">나만의 웹 방화벽 구축하기</a>
 - 2007.06.01 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=68&article_num=68">내부자에 의한 기술 유출 방지 방법</a>
+- 2006.10.18 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=65&article_num=65">악성코드의 새로운 패러다임 및 대응</a>
 - 2006.07.19 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=64&article_num=64">스파이웨어 정복기</a>
 - 2006.04.13 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=61&article_num=61">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part III</a>
 - 2006.03.15 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=60&article_num=60">바이러스 게놈 지도를 활용한 변형 바이러스 추론 Part II</a>
@@ -135,6 +136,11 @@ permalink: /about/
 - 2005.10.25 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=54&article_num=54">Virtual PC로 Honeypot을 만들자 (3)</a>
 - 2005.10.25 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=53&article_num=53">Virtual PC로 Honeypot을 만들자 (2)</a>
 - 2005.10.25 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=52&article_num=52">Virtual PC로 Honeypot을 만들자 (1)</a>
+- 2005.01.25 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=35&article_num=35">기업 정보 유출 유형 및 사례 분석(5)</a>
+- 2005.01.11 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=34&article_num=34">기업 정보 유출 유형 및 사례 분석(4)</a>
+- 2004.12.28 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=33&article_num=33">기업 정보 유출 유형 및 사례 분석(3)</a>
+- 2004.12.15 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=32&article_num=32">기업 정보 유출 유형 및 사례 분석(2)</a>
+- 2004.12.01 : 하우리, <a href="https://www.hauri.co.kr/security/issue_view.html?intSeq=31&article_num=31">기업 정보 유출 유형 및 사례 분석(1)</a>
 - 2002.07.11 : 국가사이버안전센터, <a href="http://boanchanggo.tistory.com/attachment/ok1.pdf">기업정보 온라인유출 유형 및 사례 분석 (PDF)</a> 
 </code></pre>
 </div>
