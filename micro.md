@@ -4,6 +4,8 @@ title: 잡담
 permalink: /micro/
 ---
 
+<fieldset style="margin:20px 0px 20px 0px;padding:5px;"><legend><span><strong></strong></span></legend><!--Creative Commons License--><div style="float: left; width: 88px; margin-top: 3px;"><img alt="Creative Commons License" style="border-width: 0" src="/images/delivery39.png"/></div><div style="margin-left: 92px; margin-top: 3px; text-align: justify;">"문제를 해결하려고 동분서주하는 인생을 만들지 말라. 불 끄는 데 시간을 허비하지 말라." <i>- <a>하브 에커 : 백만장자 시크릿</a><br><br>at 2018-05-06</i></div></fieldset>
+
 <fieldset style="margin:20px 0px 20px 0px;padding:5px;"><legend><span><strong></strong></span></legend><!--Creative Commons License--><div style="float: left; width: 88px; margin-top: 3px;"><img alt="Creative Commons License" style="border-width: 0" src="/images/delivery39.png"/></div><div style="margin-left: 92px; margin-top: 3px; text-align: justify;">"인생에서 무엇인가 해야겠다는 생각이 든다면 지금 바로 해야 한다. 지금 하지 않으면 오늘도 못하고 내일도 못 한다." <i>- <a>편석환 : 나는 오늘부터 말을 하지 않기로 했다</a><br><br>at 2015-09-13</i></div></fieldset>
 
 <fieldset style="margin:20px 0px 20px 0px;padding:5px;"><legend><span><strong></strong></span></legend><!--Creative Commons License--><div style="float: left; width: 88px; margin-top: 3px;"><img alt="Creative Commons License" style="border-width: 0" src="/images/pulse1.png"/></div><div style="margin-left: 92px; margin-top: 3px; text-align: justify;">"우리에게 뭔가 시도할 용기가 없다면 삶이 도대체 어떤 의미가 있겠나?" <i>- <a>고흐</a><br><br>at 2015-09-10</i></div></fieldset>
