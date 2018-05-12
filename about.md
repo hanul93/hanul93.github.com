@@ -67,7 +67,8 @@ permalink: /about/
 
 ### 언론
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.05.11 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=69315&kind=1">채용사이트 기재된 인사담당자 타깃 랜섬웨어 집중 유포</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.05.12 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=69359&kind=1">북미정상회담 앞두고 청와대 사칭 피싱 공격 발견</a>
+- 2018.05.11 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=69315&kind=1">채용사이트 기재된 인사담당자 타깃 랜섬웨어 집중 유포</a>
 - 2018.05.02 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=68990&kind=1">네팔 정부 사이트 35개 줄줄이 해킹...해킹 배후 어나니머스?</a>
 - 2018.04.10 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=68281&kind=1">대전대학교, 4만 2,361건 개인정보 유출...교육분야 보안 ‘비상’</a>
 - 2018.04.01 : 전자신문, <a href="http://www.etnews.com/20180330000237">블록체인부터 IoT보안까지...NetSec-KR 내달 12일 코엑스서 개최</a>
