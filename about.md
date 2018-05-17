@@ -67,7 +67,8 @@ permalink: /about/
 
 ### 언론
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.05.14 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=69061&kind=1">정보보안인들이 스승·선배·멘토에게 전하는 감사 메시지</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.05.16 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=69457&kind=1">삼성 이어 대우조선해양까지... 피싱 악용되는 대기업 브랜드</a>
+- 2018.05.14 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=69061&kind=1">정보보안인들이 스승·선배·멘토에게 전하는 감사 메시지</a>
 - 2018.05.12 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=69359&kind=1">북미정상회담 앞두고 청와대 사칭 피싱 공격 발견</a>
 - 2018.05.11 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=69315&kind=1">채용사이트 기재된 인사담당자 타깃 랜섬웨어 집중 유포</a>
 - 2018.05.02 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=68990&kind=1">네팔 정부 사이트 35개 줄줄이 해킹...해킹 배후 어나니머스?</a>
