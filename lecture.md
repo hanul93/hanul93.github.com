@@ -117,7 +117,8 @@ permalink: /lecture/
 
 ## 서울여자대학교 (정보보호 영재교육원)
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.05.26 (3h) : 악성코드의 이해와 백신 구조 (1)
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.06.23 (3h) : 악성코드의 이해와 백신 구조 (2)
+- 2018.05.26 (3h) : 악성코드의 이해와 백신 구조 (1)
 </code></pre>
 </div>
 
