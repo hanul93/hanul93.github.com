@@ -52,7 +52,8 @@ permalink: /lecture/
 
 ## 국방부
 
-<div class="highlighter-rouge"><pre class="highlight">- 2018.06.04 (20h) : 파이썬으로 만드는 취약점 점검 도구
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.06.11 (20h) : 악성코드의 동작 원리 분석
+- 2018.06.04 (20h) : 파이썬으로 만드는 취약점 점검 도구
 - 2018.05.30 (16h) : 암호 알고리즘의 취약점 분석
 - 2018.05.21 (12h) : 악성코드와 인공지능 백신
 - 2017.11.30 (16h) : 악성코드와 인공지능 백신
