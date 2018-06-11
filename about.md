@@ -67,7 +67,8 @@ permalink: /about/
 
 ### 언론
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.06.03 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=70087&page=1&kind=1">한수원 해커조직 활동재개? 북미회담 외교전 못지 않은 정보전</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.06.11 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=70235">한 발 앞서 꼽아본 2018년 상반기 보안이슈 6</a>
+- 2018.06.03 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=70087&page=1&kind=1">한수원 해커조직 활동재개? 북미회담 외교전 못지 않은 정보전</a>
 - 2018.05.28 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=69812">평양·주체 해커들이 또? 매트릭스 랜섬웨어 재등장</a>
 - 2018.05.18 : 서울창업신문, <a href="http://scnews.co.kr/news/view.html?section=117&category=118&no=5184">창업 기업 스케일업에 도전하다</a>
 - 2018.05.16 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=69457&kind=1">삼성 이어 대우조선해양까지... 피싱 악용되는 대기업 브랜드</a>
