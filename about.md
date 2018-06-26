@@ -67,7 +67,8 @@ permalink: /about/
 
 ### 언론
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.06.20 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=70513">빗썸, 350억원 암호화폐 탈취 당했다... 해킹 사실 인정</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.06.27 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=70749">보안 USB 활용한 사이버공격, 내부망 장악 노렸다</a>
+- 2018.06.20 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=70513">빗썸, 350억원 암호화폐 탈취 당했다... 해킹 사실 인정</a>
 - 2018.06.12 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=70314">북미정상회담 성공적 종료, 사이버 첩보전은 진행형</a>
 - 2018.06.11 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=70235">한 발 앞서 꼽아본 2018년 상반기 보안이슈 6</a>
 - 2018.06.03 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=70087&page=1&kind=1">한수원 해커조직 활동재개? 북미회담 외교전 못지 않은 정보전</a>
