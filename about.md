@@ -159,7 +159,8 @@ permalink: /about/
 
 ### 발표
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.04.13 : NETSEC-KR2018, 악성코드 분석 오픈 플랫폼
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.07.09 : KISA, 머신러닝 기술을 이용한 악성코드 분류
+- 2018.04.13 : NETSEC-KR2018, 악성코드 분석 오픈 플랫폼
 - 2017.11.23 : 경일대학교, <a href="http://security.kiu.ac.kr/HOME/security/sub/sub.htm?mode=view&mv_data=aWR4PTEwOTAmc3RhcnRQYWdlPTAmbGlzdE5vPTU1NyZ0YWJsZT1leF9iYnNfZGF0YV9zZWN1cml0eSZuYXZfY29kZT1zZWMxMzEzMTM2MzQxJmNvZGU9bm90aWNlJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9Jm9yZGVyX2xpc3Q9Jmxpc3Rfc2NhbGU9JnZpZXdfbGV2ZWw9JnZpZXdfY2F0ZT0mdmlld19jYXRlMj0=%7C%7C">인공지능이 미치는 사이버 보안의 미래</a>
 - 2017.07.15 : 시큐리티플러스 오픈 보안 컨퍼런스, <a href="http://cafe.naver.com/securityplus/24197">오픈 소스 백신이 가지는 의미</a>
 - 2017.03.23 : 한국정보보호학회 단기강좌, <a href="http://kcert.designq.kr/bbs/board.php?bo_table=s62&wr_id=683">문서 취약점을 이용한 APT 악성코드 분석</a>
