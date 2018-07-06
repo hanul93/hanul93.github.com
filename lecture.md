@@ -52,7 +52,8 @@ permalink: /lecture/
 
 ## 국방부
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.07.05 (16h) : 파이썬으로 배우는 Anti-Virus 구조와 원리
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.07.10 (16h) : 문서 파일 암호 해독의 원리
+- 2018.07.05 (16h) : 파이썬으로 배우는 Anti-Virus 구조와 원리
 - 2018.07.04 (8h) : 윈도우 포렌식으로 알아보는 디지털 포렌식의 이해
 - 2018.06.11 (20h) : 악성코드의 동작 원리 분석
 - 2018.06.04 (20h) : 파이썬으로 만드는 취약점 점검 도구
