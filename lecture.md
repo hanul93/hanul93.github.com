@@ -156,3 +156,10 @@ permalink: /lecture/
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2016.10.13 (25h) : 악성코드 분석기술 역량강화 리버싱 교육
 </code></pre>
 </div>
+
+
+## 기타
+
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.09.03 (35h) : 문서 파일 취약점을 이용한 악성코드 분석 및 실습
+</code></pre>
+</div>
