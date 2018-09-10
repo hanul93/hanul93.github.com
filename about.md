@@ -55,7 +55,7 @@ permalink: /about/
 
 ## 수상
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2012.10 : 일본 인터폴 감사장 (제14회 인터폴 IT 범죄 전문가 그룹에서 세션 발표 
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2012.10 : 일본 인터폴 감사장 (제14회 인터폴 IT 범죄 전문가 그룹에서 세션 발표) 
 - 2012.04 : 한국인터넷진흥원장 공로상 (국제 해킹방어대회에 기여한 공로 인정) 
 - 2011.04 : 한국인터넷진흥원장 공로상 (국제 해킹방어대회에 기여한 공로 인정) 
 - 2009.01 : 국가정보원장 표창 (국가안전보장에 기여한 공로 인정) 
@@ -161,7 +161,8 @@ permalink: /about/
 
 ### 발표
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.08.08 : 국민대학교  CTI 연구 세미나, 악성코드 분석 실전 기술
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.10.06 : 서울여자대학교 제7회 레몬 정보보안 세미나, <a href="https://onoffmix.com/event/150662">오픈소스 백신이 가지는 의미</a>
+- 2018.08.08 : 국민대학교  CTI 연구 세미나, 악성코드 분석 실전 기술
 - 2018.07.09 : KISA, 머신러닝 기술을 이용한 악성코드 분류
 - 2018.04.13 : NETSEC-KR2018, 악성코드 분석 오픈 플랫폼
 - 2017.11.23 : 경일대학교, <a href="http://security.kiu.ac.kr/HOME/security/sub/sub.htm?mode=view&mv_data=aWR4PTEwOTAmc3RhcnRQYWdlPTAmbGlzdE5vPTU1NyZ0YWJsZT1leF9iYnNfZGF0YV9zZWN1cml0eSZuYXZfY29kZT1zZWMxMzEzMTM2MzQxJmNvZGU9bm90aWNlJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9Jm9yZGVyX2xpc3Q9Jmxpc3Rfc2NhbGU9JnZpZXdfbGV2ZWw9JnZpZXdfY2F0ZT0mdmlld19jYXRlMj0=%7C%7C">인공지능이 미치는 사이버 보안의 미래</a>
