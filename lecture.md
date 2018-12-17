@@ -155,7 +155,7 @@ permalink: /lecture/
 </div>
 
 
-## K-Sheld Jr.
+## K-Shield Jr.
 
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.10.27 (25h) : 악성코드 분석
 </code></pre>
