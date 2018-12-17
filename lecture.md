@@ -52,7 +52,9 @@ permalink: /lecture/
 
 ## 국방부
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.07.10 (16h) : 문서 파일 암호 해독의 원리
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.12.03 (35h) : 다양한 사례로 살펴보는 악성코드 분석 및 실습
+- 2018.11.08 (16h) : 사이버사 최고 전문가 과정 (악성코드 분석 및 실습)
+- 2018.07.10 (16h) : 문서 파일 암호 해독의 원리
 - 2018.07.05 (16h) : 파이썬으로 배우는 Anti-Virus 구조와 원리
 - 2018.07.04 (8h) : 윈도우 포렌식으로 알아보는 디지털 포렌식의 이해
 - 2018.06.11 (20h) : 악성코드의 동작 원리 분석
@@ -81,7 +83,8 @@ permalink: /lecture/
 
 ## 국세청
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.12.26 (8h) : 모바일 포렌식 실습
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.10.25 (8h) : 모바일 포렌식 실습
+- 2017.12.26 (8h) : 모바일 포렌식 실습
 - 2017.12.08 (5h) : 모바일 포렌식 실습
 - 2017.11.02 (8h) : 모바일 포렌식 실습
 </code></pre>
@@ -123,7 +126,8 @@ permalink: /lecture/
 
 ## 서울여자대학교 (정보보호영재교육원)
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.09.01 (3h) : 악성코드의 이해
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.10.06 (3h) : 악성코드의 이해
+- 2018.09.01 (3h) : 악성코드의 이해
 - 2018.06.23 (3h) : 악성코드의 이해와 백신 구조 (2)
 - 2018.05.26 (3h) : 악성코드의 이해와 백신 구조 (1)
 </code></pre>
@@ -147,6 +151,13 @@ permalink: /lecture/
 ## 지란지교 시큐리티
 
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2016.06.15 (8h) : 한글 문서 취약점 악성코드 분석 및 탐지 방법
+</code></pre>
+</div>
+
+
+## K-Sheld Jr.
+
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.10.27 (25h) : 악성코드 분석
 </code></pre>
 </div>
 
