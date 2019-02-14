@@ -69,7 +69,9 @@ permalink: /about/
 
 ### 언론
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.08.02 : 보안뉴스, <a href="https://www.boannews.com/media/view.asp?idx=71927">갠드크랩 랜섬웨어 두고 창과 방패 싸움 ‘치열’</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.10.04 : 보안뉴스, <a href="https://www.boannews.com/media/view.asp?idx=75600&kind=">[2018 성탄특집] 보안전문가들이 보내는 크리스마스 카드</a>
+- 2018.10.04 : 데일리시큐, <a href="https://www.dailysecu.com/?mod=news&act=articleView&idxno=39379">서울여대, ‘레몬 정보보안세미나’ 6일 개최</a>
+- 2018.08.02 : 보안뉴스, <a href="https://www.boannews.com/media/view.asp?idx=71927">갠드크랩 랜섬웨어 두고 창과 방패 싸움 ‘치열’</a>
 - 2018.07.31 : 보안뉴스, <a href="https://www.boannews.com/media/view.asp?idx=71861">‘계정만료 최종확인서’ 위장해 언론사 노린 피싱 사이트 주의!</a>
 - 2018.06.27 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=70749">보안 USB 활용한 사이버공격, 내부망 장악 노렸다</a>
 - 2018.06.20 : 보안뉴스, <a href="http://www.boannews.com/media/view.asp?idx=70513">빗썸, 350억원 암호화폐 탈취 당했다... 해킹 사실 인정</a>
