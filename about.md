@@ -49,6 +49,13 @@ permalink: /about/
 </code></pre>
 </div> 
 
+
+## 논문
+
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 정보보호학회논문지 / v.29, no.1, 2019년, pp.139-147 : <a href="http://koreascience.or.kr/article/JAKO201907753431236.page">손상된 전자기록물 구분과 복원 방법에 관한 연구</a>
+</code></pre>
+</div>
+
 ## 저서
 
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.09.29 : <a href="/kicomav-book/">파이썬으로 배우는 Anti-Virus 구조와 원리</a>
@@ -165,7 +172,8 @@ permalink: /about/
 
 ### 발표
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.10.06 : 서울여자대학교 제7회 레몬 정보보안 세미나, <a href="https://onoffmix.com/event/150662">오픈소스 백신이 가지는 의미</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2019.06.27 : 한국정보보호학회 단기강좌, <a href="http://kcert.designq.kr/bbs/board.php?bo_table=s62&wr_id=947">인공지능 백신 개발과 실습</a>
+- 2018.10.06 : 서울여자대학교 제7회 레몬 정보보안 세미나, <a href="https://onoffmix.com/event/150662">오픈소스 백신이 가지는 의미</a>
 - 2018.08.08 : 국민대학교  CTI 연구 세미나, 악성코드 분석 실전 기술
 - 2018.07.09 : KISA, 머신러닝 기술을 이용한 악성코드 분류
 - 2018.04.13 : NETSEC-KR2018, 악성코드 분석 오픈 플랫폼
