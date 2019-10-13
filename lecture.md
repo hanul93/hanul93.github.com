@@ -39,7 +39,8 @@ permalink: /lecture/
 
 ## 국민대학교
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.03.17 (40h) : 실무에 바로 활용하는 리버스엔지니어링 실전
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2019.10.10 (2h) : (특강) 알고리즘 없이 백신 개발이 가능할까?
+- 2018.03.17 (40h) : 실무에 바로 활용하는 리버스엔지니어링 실전
 </code></pre>
 </div>
 
@@ -126,7 +127,10 @@ permalink: /lecture/
 
 ## 서울여자대학교 (정보보호영재교육원)
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.10.06 (3h) : 악성코드의 이해
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2019.11.09 (3h) : 악성코드의 이해
+- 2019.07.20 (3h) : 악성코드의 이해와 백신 구조 (2)
+- 2019.07.06 (3h) : 악성코드의 이해와 백신 구조 (1)
+- 2018.10.06 (3h) : 악성코드의 이해
 - 2018.09.01 (3h) : 악성코드의 이해
 - 2018.06.23 (3h) : 악성코드의 이해와 백신 구조 (2)
 - 2018.05.26 (3h) : 악성코드의 이해와 백신 구조 (1)
@@ -155,6 +159,16 @@ permalink: /lecture/
 </div>
 
 
+## 한국인터넷진흥원
+
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2019.08.28 (24h) : 빅데이터를 활용한 악성코드 분류, 식별 및 탐지
+- 2019.09.20 (8h) : 빅데이터를 활용한 악성코드 분류, 식별 및 탐지
+- 2019.09.30 (16h) : AI를 활용한 악성코드 분류, 식별 및 탐지
+</code></pre>
+</div>
+
+
+
 ## K-Shield Jr.
 
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.10.27 (25h) : 악성코드 분석
@@ -171,6 +185,8 @@ permalink: /lecture/
 
 ## 기타
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.09.03 (35h) : 문서 파일 취약점을 이용한 악성코드 분석 및 실습
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">
+
+- 2018.09.03 (35h) : 문서 파일 취약점을 이용한 악성코드 분석 및 실습
 </code></pre>
 </div>

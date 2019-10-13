@@ -28,7 +28,8 @@ permalink: /about/
 
 ## 이력
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2016.09 - 현    재 : 김포대학교 사이버보안과 외래교수
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2019.09 - 현    재 : 국민대학교 산학협력 멘토위원
+- 2016.09 - 현    재 : 김포대학교 사이버보안과 외래교수
 - 2014.03 - 현    재 : 사이버보안전문단 (미래창조과학부 임명) 
 - 2009.03 - 현    재 : 동국대학교 국제정보대학원 정보보호학과 사이버포렌식전공 교수 
 - 2004.10 - 2014.03 : 방통위 민간합동조사단 운영위원           
@@ -52,7 +53,8 @@ permalink: /about/
 
 ## 논문
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 정보보호학회논문지 / v.29, no.1, 2019년, pp.139-147 : <a href="http://koreascience.or.kr/article/JAKO201907753431236.page">손상된 전자기록물 구분과 복원 방법에 관한 연구</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 정보보호학회논문지 / v.29, no.5, 2019년: OP Code 특징 기반의 텍스트와 이미지 데이터셋 연구를 통한 인공지능 백신 개발</a>
+- 정보보호학회논문지 / v.29, no.1, 2019년, pp.139-147 : <a href="http://koreascience.or.kr/article/JAKO201907753431236.page">손상된 전자기록물 구분과 복원 방법에 관한 연구</a>
 </code></pre>
 </div>
 
