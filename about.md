@@ -53,7 +53,8 @@ permalink: /about/
 
 ## 논문
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 정보보호학회논문지 / v.29, no.5, 2019년: OP Code 특징 기반의 텍스트와 이미지 데이터셋 연구를 통한 인공지능 백신 개발</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 정보보호학회논문지 / v.29, no.5, 2019년: OP Code 특징 기반의 텍스트와 이미지 데이터셋 연구를 통한 
+                                                   인공지능 백신 개발
 - 정보보호학회논문지 / v.29, no.1, 2019년, pp.139-147 : <a href="http://koreascience.or.kr/article/JAKO201907753431236.page">손상된 전자기록물 구분과 복원 방법에 관한 연구</a>
 </code></pre>
 </div>
