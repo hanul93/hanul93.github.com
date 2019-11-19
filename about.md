@@ -54,7 +54,7 @@ permalink: /about/
 ## 논문
 
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 정보보호학회논문지 / 2020년: 머신러닝을 이용한 전자기록물의 논리적 손상 탐지 방법에 대한 연구
-- 정보보호학회논문지 / 2019년: <a href="http://koreascience.or.kr/article/JAKO201931765047936.page" alt="OP Code 특징 기반의 텍스트와 이미지 데이터셋 연구를 통한 인공지능 백신 개발">OP Code 특징 기반의 텍스트와 이미지 데이터셋 연구 ... 인공지능 백신 개발</a>
+- 정보보호학회논문지 / 2019년: <a href="http://koreascience.or.kr/article/JAKO201931765047936.page" title="OP Code 특징 기반의 텍스트와 이미지 데이터셋 연구를 통한 인공지능 백신 개발">OP Code 특징 기반의 텍스트와 이미지 데이터셋 연구...인공지능 백신 개발</a>
 - 정보보호학회논문지 / 2019년: <a href="http://koreascience.or.kr/article/JAKO201907753431236.page">손상된 전자기록물 구분과 복원 방법에 관한 연구</a>
 </code></pre>
 </div>
