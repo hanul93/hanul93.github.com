@@ -41,7 +41,8 @@ permalink: /lecture/
 
 ## 국민대학교
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2019.10.10 (2h) : (특강) 알고리즘 없이 백신 개발이 가능할까?
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2019.11.26 (2h) : (특강) 유전알고리즘과 강화학습으로 악성코드없는 안전한 컴퓨팅 환경 만들기
+- 2019.10.10 (2h) : (특강) 알고리즘 없이 백신 개발이 가능할까?
 - 2018.03.17 (40h) : 실무에 바로 활용하는 리버스엔지니어링 실전
 </code></pre>
 </div>
