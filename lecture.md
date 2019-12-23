@@ -16,7 +16,9 @@ permalink: /lecture/
 
 ## 게임물관리위원회
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.12.06 (4h) : IDA Pro 개요와 실습
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2019.12.20 (5h) : IDA Pro 개요와 실습
+- 2019.12.19 (5h) : IDA Pro 개요와 실습
+- 2017.12.06 (4h) : IDA Pro 개요와 실습
 - 2017.12.05 (4h) : IDA Pro 개요와 실습
 - 2016.10.17 (20h) : 실무에 바로 활용하는 파이썬(Python) 이론과 실습
 </code></pre>
