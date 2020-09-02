@@ -155,6 +155,13 @@ permalink: /lecture/
 </div>
 
 
+## 중부정보보호지원센터
+
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.08.26 (2h) : 빅데이터를 활용한 악성코드 분류, 식별 및 탐지
+</code></pre>
+</div>
+
+
 ## 지란지교 시큐리티
 
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2016.06.15 (8h) : 한글 문서 취약점 악성코드 분석 및 탐지 방법
