@@ -164,12 +164,25 @@ permalink: /lecture/
 
 ## 한국인터넷진흥원
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2019.08.28 (24h) : 빅데이터를 활용한 악성코드 분류, 식별 및 탐지
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.08.18 (16h) : 빅데이터를 활용한 악성코드 분류, 식별 및 탐지
+- 2019.08.28 (24h) : 빅데이터를 활용한 악성코드 분류, 식별 및 탐지
 - 2019.09.20 (8h) : 빅데이터를 활용한 악성코드 분류, 식별 및 탐지
 - 2019.09.30 (16h) : AI를 활용한 악성코드 분류, 식별 및 탐지
 </code></pre>
 </div>
 
+
+## 한국토지주택공사
+
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.07.09 (4h) : 악성코드 최신 동향 및 분석 방법
+- 2020.07.02 (4h) : 인공지능 사회 / 디지털 포렌식
+</code></pre>
+</div>
+
+## 한국표준협회
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.07.18 (8h) : 빅데이터를 활용한 악성코드 분류, 식별 및 탐지
+</code></pre>
+</div>
 
 
 ## K-Shield Jr.

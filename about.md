@@ -28,7 +28,8 @@ permalink: /about/
 
 ## 이력
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2019.09 - 현    재 : 국민대학교 산학협력 멘토위원
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.09 - 현    재 : 이화여자대학교 엘텍공과대학 소프트웨어학부 사이버보안전공 겸임교수
+- 2019.09 - 현    재 : 국민대학교 산학협력 멘토위원
 - 2016.09 - 현    재 : 김포대학교 사이버보안과 외래교수
 - 2014.03 - 현    재 : 사이버보안전문단 (미래창조과학부 임명) 
 - 2009.03 - 현    재 : 동국대학교 국제정보대학원 정보보호학과 사이버포렌식전공 교수 
@@ -53,7 +54,7 @@ permalink: /about/
 
 ## 논문
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 정보보호학회논문지 / 2020년: 머신러닝을 이용한 전자기록물의 논리적 손상 탐지 방법에 대한 연구
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 정보보호학회논문지 / 2020년: <a href="http://koreascience.or.kr/article/JAKO202011161396041.page">스레드 기반 모니터링을 통한 악의적인 행위 주체 추적 및 차단에 관한 연구</a>
 - 정보보호학회논문지 / 2019년: <a href="http://koreascience.or.kr/article/JAKO201931765047936.page" title="OP Code 특징 기반의 텍스트와 이미지 데이터셋 연구를 통한 인공지능 백신 개발">OP Code 특징 기반의 텍스트와 이미지 데이터셋 연구...인공지능 백신 개발</a>
 - 정보보호학회논문지 / 2019년: <a href="http://koreascience.or.kr/article/JAKO201907753431236.page">손상된 전자기록물 구분과 복원 방법에 관한 연구</a>
 </code></pre>
@@ -79,7 +80,9 @@ permalink: /about/
 
 ### 언론
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2019.11.12 : 녹색경제신문, <a href="http://www.greened.kr/news/articleView.html?idxno=222852">KISA, 누리랩·시큐레터 등 정보보호 스타트업 8개사 'KSM 등록 추천서' 발급</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.06.29 : 데일리시큐, <a href="https://www.dailysecu.com/news/articleView.html?idxno=110521">최원혁 누리랩 대표 “악성코드 분석 플랫폼 ‘미노스’ 엔진 개발…제2 도약 발판 마련”</a>
+- 2020.04.29 : 데일리시큐, <a href="https://www.dailysecu.com/news/articleView.html?idxno=108289">한시큐리티, ‘누리랩’과 정보보호 사업 전략적 MoU 체결</a>
+- 2019.11.12 : 녹색경제신문, <a href="http://www.greened.kr/news/articleView.html?idxno=222852">KISA, 누리랩·시큐레터 등 정보보호 스타트업 8개사 'KSM 등록 추천서' 발급</a>
 - 2018.12.24 : 보안뉴스, <a href="https://www.boannews.com/media/view.asp?idx=75600&kind=">[2018 성탄특집] 보안전문가들이 보내는 크리스마스 카드</a>
 - 2018.10.04 : 데일리시큐, <a href="https://www.dailysecu.com/?mod=news&act=articleView&idxno=39379">서울여대, ‘레몬 정보보안세미나’ 6일 개최</a>
 - 2018.08.02 : 보안뉴스, <a href="https://www.boannews.com/media/view.asp?idx=71927">갠드크랩 랜섬웨어 두고 창과 방패 싸움 ‘치열’</a>
@@ -176,7 +179,8 @@ permalink: /about/
 
 ### 발표
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2019.06.27 : 한국정보보호학회 단기강좌, <a href="http://kcert.designq.kr/bbs/board.php?bo_table=s62&wr_id=947">인공지능 백신 개발과 실습</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.08.28 : GCCD 사이버보안 초청세미나, 빅데이터를 이용한 악성코드 탐지
+- 2019.06.27 : 한국정보보호학회 단기강좌, <a href="http://kcert.designq.kr/bbs/board.php?bo_table=s62&wr_id=947">인공지능 백신 개발과 실습</a>
 - 2018.10.06 : 서울여자대학교 제7회 레몬 정보보안 세미나, <a href="https://onoffmix.com/event/150662">오픈소스 백신이 가지는 의미</a>
 - 2018.08.08 : 국민대학교  CTI 연구 세미나, 악성코드 분석 실전 기술
 - 2018.07.09 : KISA, 머신러닝 기술을 이용한 악성코드 분류
