@@ -80,7 +80,7 @@ permalink: /about/
 
 ### 언론
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.06.29 : 데일리시큐, <a href="https://www.dailysecu.com/news/articleView.html?idxno=110521">최원혁 누리랩 대표 “악성코드 분석 플랫폼 ‘미노스’ 엔진 개발…제2 도약 발판 마련”</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.06.29 : 데일리시큐, <a href="https://www.dailysecu.com/news/articleView.html?idxno=110521">최원혁 대표 “악성코드 분석 플랫폼 ‘미노스’ 엔진 개발…제2 도약 발판 마련”</a>
 - 2020.04.29 : 데일리시큐, <a href="https://www.dailysecu.com/news/articleView.html?idxno=108289">한시큐리티, ‘누리랩’과 정보보호 사업 전략적 MoU 체결</a>
 - 2019.11.12 : 녹색경제신문, <a href="http://www.greened.kr/news/articleView.html?idxno=222852">KISA, 누리랩·시큐레터 등 정보보호 스타트업 8개사 'KSM 등록 추천서' 발급</a>
 - 2018.12.24 : 보안뉴스, <a href="https://www.boannews.com/media/view.asp?idx=75600&kind=">[2018 성탄특집] 보안전문가들이 보내는 크리스마스 카드</a>

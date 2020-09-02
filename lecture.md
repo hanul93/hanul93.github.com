@@ -201,8 +201,6 @@ permalink: /lecture/
 
 ## 기타
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">
-
-- 2018.09.03 (35h) : 문서 파일 취약점을 이용한 악성코드 분석 및 실습
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.09.03 (35h) : 문서 파일 취약점을 이용한 악성코드 분석 및 실습
 </code></pre>
 </div>
