@@ -179,7 +179,7 @@ permalink: /about/
 
 ### 발표
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.08.28 : GCCD 사이버보안 초청세미나, <a href="https://www.camp-gccd2020.com/gccd/program/seminar.php">Malware detection using Big data</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.09.14 : GCCD 사이버보안 초청세미나, <a href="https://www.camp-gccd2020.com/gccd/program/seminar.php">Malware detection using Big data</a>
 - 2019.06.27 : 한국정보보호학회 단기강좌, <a href="http://kcert.designq.kr/bbs/board.php?bo_table=s62&wr_id=947">인공지능 백신 개발과 실습</a>
 - 2018.10.06 : 서울여자대학교 제7회 레몬 정보보안 세미나, <a href="https://onoffmix.com/event/150662">오픈소스 백신이 가지는 의미</a>
 - 2018.08.08 : 국민대학교  CTI 연구 세미나, 악성코드 분석 실전 기술
