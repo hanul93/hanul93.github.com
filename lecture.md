@@ -107,6 +107,13 @@ permalink: /lecture/
 </div>
 
 
+## 대검찰청
+
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.10.26 (80h) : 리버스 엔지니어링, 악성코드 탐지 및 분석 기초
+</code></pre>
+</div>
+
+
 ## 대구대학교
 
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2015.01.17 (4h) : 파일 바이러스 분석
