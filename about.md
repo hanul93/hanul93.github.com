@@ -18,7 +18,7 @@ permalink: /about/
 
 ## 경력
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2015.03 - 현    재 : <a href="http://www.nurilab.com">(주)누리랩</a> 대표이사 (법인전환) 
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2015.03 - 현    재 : <a href="http://www.nurilab.com">(주)누리랩</a> 대표이사/연구소장 (법인전환) 
 - 2011.05 - 2015.03 : 누리랩 대표 (개인 사업자)
 - 2011.11 - 2014.03 : (주)잉카인터넷 보안기술 CSO 이사 
 - 2009.09 - 2010.10 : (주)터보테크 난독화 솔루션 개발 팀장            
@@ -28,11 +28,13 @@ permalink: /about/
 
 ## 이력
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.09 - 현    재 : 이화여자대학교 엘텍공과대학 소프트웨어학부 사이버보안전공 겸임교수
-- 2019.09 - 현    재 : 국민대학교 산학협력 멘토위원
-- 2016.09 - 현    재 : 김포대학교 사이버보안과 외래교수
-- 2014.03 - 현    재 : 사이버보안전문단 (미래창조과학부 임명) 
-- 2009.03 - 현    재 : 동국대학교 국제정보대학원 정보보호학과 사이버포렌식전공 교수 
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2021.03 - 현    재 : 사이버작전사령부 자문위원
+- 2021.03 - 현    재 : 고려대학교 인공지능사이버보안학과 겸임교수
+- 2020.09 - 현    재 : 이화여자대학교 엘텍공과대학 소프트웨어학부 사이버보안전공 겸임교수
+- 2019.09 - 2020.08 : 국민대학교 산학협력 멘토위원
+- 2016.09 - 2017.08 : 김포대학교 사이버보안과 외래교수
+- 2014.03 - 2016.02 : 사이버보안전문단 (미래창조과학부 임명) 
+- 2009.03 - 2013.02 : 동국대학교 국제정보대학원 정보보호학과 사이버포렌식전공 교수 
 - 2004.10 - 2014.03 : 방통위 민간합동조사단 운영위원           
 - 1995.10 - 현    재 : <a href="http://www.kicomav.com">공개용 백신 (키콤백신)</a> 개발                   
 </code></pre>
@@ -80,7 +82,9 @@ permalink: /about/
 
 ### 언론
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.06.29 : 데일리시큐, <a href="https://www.dailysecu.com/news/articleView.html?idxno=110521">최원혁 대표 “악성코드 분석 플랫폼 ‘미노스’ 엔진 개발…제2 도약 발판 마련”</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2021.03.02 : 전자신문, <a href="https://www.etnews.com/20210302000207">사이버작전사령부, 류재철 교수 등 제5기 자문위원 12명 위촉</a>
+- 2021.03.02 : 데일리시큐, <a href="https://www.dailysecu.com/news/articleView.html?idxno=121294">[인터뷰] 박정호 누리랩 대표 “데이터 보안 중추기업으로…경쟁 보다는 협업”</a>
+- 2021.02.26 : 데일리시큐, <a href="https://www.dailysecu.com/news/articleView.html?idxno=121216">[K-CTI 2021] 대한민국 사이버위협 인텔리전스 컨퍼런스 3월 9일 개최</a>
 - 2020.04.29 : 데일리시큐, <a href="https://www.dailysecu.com/news/articleView.html?idxno=108289">한시큐리티, ‘누리랩’과 정보보호 사업 전략적 MoU 체결</a>
 - 2019.11.12 : 녹색경제신문, <a href="http://www.greened.kr/news/articleView.html?idxno=222852">KISA, 누리랩·시큐레터 등 정보보호 스타트업 8개사 'KSM 등록 추천서' 발급</a>
 - 2018.12.24 : 보안뉴스, <a href="https://www.boannews.com/media/view.asp?idx=75600&kind=">[2018 성탄특집] 보안전문가들이 보내는 크리스마스 카드</a>
@@ -179,7 +183,8 @@ permalink: /about/
 
 ### 발표
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2020.09.14 : GCCD 사이버보안 초청세미나, <a href="https://www.camp-gccd2020.com/gccd/program/seminar.php">Malware detection using Big data</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2021.03.09 : K-CTI 사이버위협 인텔리전스 컨퍼런스, <a href="https://www.dailysecu.com/form/register.html?form_id=1607408344#a2">빅데이터 플랫폼을 이용한 악성코드 분석</a>
+- 2020.09.14 : GCCD 사이버보안 초청세미나, <a href="https://www.camp-gccd2020.com/gccd/program/seminar.php">Malware detection using Big data</a>
 - 2019.06.27 : 한국정보보호학회 단기강좌, <a href="http://kcert.designq.kr/bbs/board.php?bo_table=s62&wr_id=947">인공지능 백신 개발과 실습</a>
 - 2018.10.06 : 서울여자대학교 제7회 레몬 정보보안 세미나, <a href="https://onoffmix.com/event/150662">오픈소스 백신이 가지는 의미</a>
 - 2018.08.08 : 국민대학교  CTI 연구 세미나, 악성코드 분석 실전 기술
