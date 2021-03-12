@@ -82,7 +82,8 @@ permalink: /about/
 
 ### 언론
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2021.03.02 : 전자신문, <a href="https://www.etnews.com/20210302000207">사이버작전사령부, 류재철 교수 등 제5기 자문위원 12명 위촉</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2021.03.11 : 데일리시큐, <a href="https://www.dailysecu.com/news/articleView.html?idxno=121820">시야인사이트-누리랩, 기술 협력 및 교육 시스템 공동개발 위한 MOU 체결</a>
+- 2021.03.02 : 전자신문, <a href="https://www.etnews.com/20210302000207">사이버작전사령부, 류재철 교수 등 제5기 자문위원 12명 위촉</a>
 - 2021.03.02 : 데일리시큐, <a href="https://www.dailysecu.com/news/articleView.html?idxno=121294">[인터뷰] 박정호 누리랩 대표 “데이터 보안 중추기업으로…경쟁 보다는 협업”</a>
 - 2021.02.26 : 데일리시큐, <a href="https://www.dailysecu.com/news/articleView.html?idxno=121216">[K-CTI 2021] 대한민국 사이버위협 인텔리전스 컨퍼런스 3월 9일 개최</a>
 - 2020.04.29 : 데일리시큐, <a href="https://www.dailysecu.com/news/articleView.html?idxno=108289">한시큐리티, ‘누리랩’과 정보보호 사업 전략적 MoU 체결</a>
