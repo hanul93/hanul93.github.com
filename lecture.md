@@ -137,7 +137,10 @@ permalink: /lecture/
 
 ## 서울여자대학교 (정보보호영재교육원)
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2019.11.09 (3h) : 악성코드의 이해
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2021.08.28 (3h) : 악성코드의 이해
+- 2021.06.12 (3h) : 악성코드이해와 오픈소스 백신 (2)
+- 2021.04.24 (3h) : 악성코드이해와 오픈소스 백신 (1)
+- 2019.11.09 (3h) : 악성코드의 이해
 - 2019.07.20 (3h) : 악성코드의 이해와 백신 구조 (2)
 - 2019.07.06 (3h) : 악성코드의 이해와 백신 구조 (1)
 - 2018.10.06 (3h) : 악성코드의 이해
