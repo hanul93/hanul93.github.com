@@ -20,7 +20,7 @@ tags: 키콤백신
 
 해당 사이트는 깃헙에서 진행하는 프로젝트로 1,000년 뒤 후손을 위해 오픈 소스 소프트웨어를 보존하자는 목적으로 소스 코드를 8백 8십만 픽셀로 이루어진 QR 코드로 변환하여 필림에 저장하여 깃헙의 북극 저장소라 불리는 공간에 저장하는 것이다.
 
-이곳은 깃헙에서 폐광을 매입하여 지하 230m의 공간에 보관하고 있으며 이는 깃헙의 유튜브를 통해 확인할 수 있다.
+이곳은 깃헙에서 폐광을 매입하여 지하 250m의 공간에 보관하고 있으며 이는 깃헙의 유튜브를 통해 확인할 수 있다.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/fzI9FNjXQ0o' frameborder='0' allowfullscreen></iframe></div>
 
