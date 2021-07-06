@@ -184,7 +184,8 @@ permalink: /about/
 
 ### 발표
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2021.04.16 : PLUS2021 정보보안 컨퍼런스, <a href="http://www.securityplus.or.kr/plus2021"> CDR (Content Disarm and Reconstruction)? 그게 뭐여?</a>
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2021.07.06 : 2021 CodeEngn Conference 17, <a href="https://www.youtube.com/watch?v=FEU8BDNhRWA"> 샌드박스 시대의 종결: AI 에뮬레이터 시대의 도래</a>
+- 2021.04.16 : PLUS2021 정보보안 컨퍼런스, <a href="http://www.securityplus.or.kr/plus2021"> CDR (Content Disarm and Reconstruction)? 그게 뭐여?</a>
 - 2021.03.09 : K-CTI 사이버위협 인텔리전스 컨퍼런스, <a href="https://www.dailysecu.com/form/register.html?form_id=1607408344#a2">빅데이터 플랫폼을 이용한 악성코드 분석</a>
 - 2020.09.14 : GCCD 사이버보안 초청세미나, <a href="https://www.camp-gccd2020.com/gccd/program/seminar.php">Malware detection using Big data</a>
 - 2019.06.27 : 한국정보보호학회 단기강좌, <a href="http://kcert.designq.kr/bbs/board.php?bo_table=s62&wr_id=947">인공지능 백신 개발과 실습</a>
