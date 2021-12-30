@@ -56,7 +56,8 @@ permalink: /lecture/
 
 ## 국방부
 
-<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2018.12.03 (35h) : 다양한 사례로 살펴보는 악성코드 분석 및 실습
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2021.12.09 (1h) : 빅데이터 플랫폼을 이용한 악성코드 분석
+- 2018.12.03 (35h) : 다양한 사례로 살펴보는 악성코드 분석 및 실습
 - 2018.11.08 (16h) : 사이버사 최고 전문가 과정 (악성코드 분석 및 실습)
 - 2018.07.10 (16h) : 문서 파일 암호 해독의 원리
 - 2018.07.05 (16h) : 파이썬으로 배우는 Anti-Virus 구조와 원리
@@ -99,6 +100,15 @@ permalink: /lecture/
 <div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2017.04.08 (64h) : 파이썬으로 배우는 Anti-Virus 구조와 원리
 </code></pre>
 </div>
+
+## 극동대학교
+<div class="highlighter-rouge"><pre class="highlight"><code class="keibox">- 2021.10.30 (3h) : 실무에 바로 활용하는 리버스엔지니어링 실전
+- 2021.10.16 (3h) : 침해사고 조사 및 악성코드 분석 실습
+- 2021.09.25 (3h) : 파이썬으로 만드는 취약점 점검 도구
+</code></pre>
+</div>
+
+
 
 ## 단국대학교
 
